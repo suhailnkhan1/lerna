@@ -24471,7 +24471,8 @@
               "NAME": "Baraboo, WI",
               "LSAD": "M2",
               "ALAND": 2152007753,
-              "AWATER": 45296336  
+              "AWATER": 45296336  ,
+              "fill" : "red"
             }
           },
           {
