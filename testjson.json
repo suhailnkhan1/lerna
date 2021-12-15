@@ -1,0 +1,31 @@
+{
+    "type": "Topology",
+    "objects": {
+      "collection": {
+        "type": "GeometryCollection",
+        "geometries": [
+            {
+                "type": "Polygon",
+                "id": 593,
+                "properties": {
+                  "fips": 51775,
+                  "state_fips": 51,
+                  "county_fips": 775,
+                  "name": "Salem",
+                  "lsad": "city",
+                  "census_area": 14.437,
+                  "state": "Virginia",
+                  "iso_3166_2": "VA"
+                },
+                "arcs": [[2994, 2995]]
+              }
+        ]
+      }
+    },
+    "transform": {
+      "scale": [0.005778905790579059, 0.002875572189647844],
+      "translate": [-124.733174, 20.631511675711202]
+    },
+    "bbox": [-124.733174, 20.631511675711202, -66.949895, 49.384358]
+  }
+  
