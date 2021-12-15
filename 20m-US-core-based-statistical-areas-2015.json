@@ -24464,1441 +24464,1881 @@
        
        
         {
-          "arcs": [[215, 216, 217, 218, 219, 220, 221]],
+          "arcs": [[624, 625, 626, 627]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "",
-            "CBSAFP": "16580",
-            "AFFGEOID": "310M200US16580",
-            "GEOID": "16580",
-            "NAME": "Champaign-Urbana, IL",
+            "CSAFP": "408",
+            "CBSAFP": "20700",
+            "AFFGEOID": "310M200US20700",
+            "GEOID": "20700",
+            "NAME": "East Stroudsburg, PA",
             "LSAD": "M1",
-            "ALAND": 4975458579,
-            "AWATER": 7928464
+            "ALAND": 1575560089,
+            "AWATER": 23131029
           }
         },
         {
-          "arcs": [[222, 223]],
+          "arcs": [[867, 868, 869, 870]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "314",
+            "CBSAFP": "35460",
+            "AFFGEOID": "310M200US35460",
+            "GEOID": "35460",
+            "NAME": "Newport, TN",
+            "LSAD": "M2",
+            "ALAND": 1125573126,
+            "AWATER": 22116606
+          }
+        },
+        {
+          "arcs": [[871, 872, 873, -142]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "222",
+            "CBSAFP": "37120",
+            "AFFGEOID": "310M200US37120",
+            "GEOID": "37120",
+            "NAME": "Ozark, AL",
+            "LSAD": "M2",
+            "ALAND": 1453371189,
+            "AWATER": 4016457
+          }
+        },
+        {
+          "arcs": [[874, 875, -823, 876]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "20820",
-            "AFFGEOID": "310M200US20820",
-            "GEOID": "20820",
-            "NAME": "Effingham, IL",
+            "CBSAFP": "20060",
+            "AFFGEOID": "310M200US20060",
+            "GEOID": "20060",
+            "NAME": "Douglas, GA",
             "LSAD": "M2",
-            "ALAND": 1240027660,
-            "AWATER": 3183217
+            "ALAND": 1490103280,
+            "AWATER": 70753625
           }
         },
         {
-          "arcs": [[224, 225, 226, 227]],
+          "arcs": [[877, 878, 879, -180, 880]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "294",
-            "CBSAFP": "24700",
-            "AFFGEOID": "310M200US24700",
-            "GEOID": "24700",
-            "NAME": "Greensburg, IN",
-            "LSAD": "M2",
-            "ALAND": 964946213,
-            "AWATER": 1955471
-          }
-        },
-        {
-          "arcs": [[228, 229, -89, 230, 231, 232]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "296",
-            "CBSAFP": "27060",
-            "AFFGEOID": "310M200US27060",
-            "GEOID": "27060",
-            "NAME": "Ithaca, NY",
+            "CSAFP": "",
+            "CBSAFP": "29460",
+            "AFFGEOID": "310M200US29460",
+            "GEOID": "29460",
+            "NAME": "Lakeland-Winter Haven, FL",
             "LSAD": "M1",
-            "ALAND": 1229335864,
-            "AWATER": 43793070
+            "ALAND": 4653250695,
+            "AWATER": 553800050
           }
         },
         {
-          "arcs": [[233, -97, 234, 235, 236]],
+          "arcs": [[881, 882, -27, -594, 883]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "",
-            "CBSAFP": "18460",
-            "AFFGEOID": "310M200US18460",
-            "GEOID": "18460",
-            "NAME": "Cornelia, GA",
+            "CSAFP": "376",
+            "CBSAFP": "48020",
+            "AFFGEOID": "310M200US48020",
+            "GEOID": "48020",
+            "NAME": "Watertown-Fort Atkinson, WI",
             "LSAD": "M2",
-            "ALAND": 716754762,
-            "AWATER": 5917259
+            "ALAND": 1441234317,
+            "AWATER": 68110734
           }
         },
         {
-          "arcs": [[237, 238, 239, 240, 241, -220]],
+          "arcs": [[884]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "19180",
-            "AFFGEOID": "310M200US19180",
-            "GEOID": "19180",
-            "NAME": "Danville, IL",
+            "CBSAFP": "15100",
+            "AFFGEOID": "310M200US15100",
+            "GEOID": "15100",
+            "NAME": "Brookings, SD",
+            "LSAD": "M2",
+            "ALAND": 2051807225,
+            "AWATER": 32967600
+          }
+        },
+        {
+          "arcs": [[885, 886, 887, -524, -553]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "174",
+            "CBSAFP": "17420",
+            "AFFGEOID": "310M200US17420",
+            "GEOID": "17420",
+            "NAME": "Cleveland, TN",
             "LSAD": "M1",
-            "ALAND": 2326763526,
-            "AWATER": 7534491
+            "ALAND": 1977283659,
+            "AWATER": 26793316
           }
         },
         {
-          "arcs": [[242, 243, 244, 245, 246, 247]],
+          "arcs": [[888, 889, 890, 891, 892]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "190",
-            "CBSAFP": "33020",
-            "AFFGEOID": "310M200US33020",
-            "GEOID": "33020",
-            "NAME": "Mexico, MO",
-            "LSAD": "M2",
-            "ALAND": 1792880223,
-            "AWATER": 11880946
+            "CSAFP": "468",
+            "CBSAFP": "40580",
+            "AFFGEOID": "310M200US40580",
+            "GEOID": "40580",
+            "NAME": "Rocky Mount, NC",
+            "LSAD": "M1",
+            "ALAND": 2708235069,
+            "AWATER": 9748791
           }
         },
         {
-          "arcs": [[248, -79, 249, 250, 251, 252]],
+          "arcs": [[893, 894]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "",
-            "CBSAFP": "47700",
-            "AFFGEOID": "310M200US47700",
-            "GEOID": "47700",
-            "NAME": "Warsaw, IN",
+            "CSAFP": "420",
+            "CBSAFP": "23340",
+            "AFFGEOID": "310M200US23340",
+            "GEOID": "23340",
+            "NAME": "Fremont, NE",
             "LSAD": "M2",
-            "ALAND": 1376372907,
-            "AWATER": 59498372
+            "ALAND": 1369377419,
+            "AWATER": 36983845
           }
         },
         {
-          "arcs": [[253, 254, 255, 256, 257]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "30380",
-            "AFFGEOID": "310M200US30380",
-            "GEOID": "30380",
-            "NAME": "Lewistown, PA",
-            "LSAD": "M2",
-            "ALAND": 1064564850,
-            "AWATER": 9544799
-          }
-        },
-        {
-          "arcs": [[258, 259, 260, 261]],
+          "arcs": [[895, 896, -414, 897]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "43700",
-            "AFFGEOID": "310M200US43700",
-            "GEOID": "43700",
-            "NAME": "Somerset, KY",
+            "CBSAFP": "10140",
+            "AFFGEOID": "310M200US10140",
+            "GEOID": "10140",
+            "NAME": "Aberdeen, WA",
             "LSAD": "M2",
-            "ALAND": 1705274603,
-            "AWATER": 48546597
+            "ALAND": 4926218548,
+            "AWATER": 834956830
           }
         },
         {
-          "arcs": [[262, -229, 263, 264]],
+          "arcs": [[898, 899, 900, 901]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "464",
-            "CBSAFP": "42900",
-            "AFFGEOID": "310M200US42900",
-            "GEOID": "42900",
-            "NAME": "Seneca Falls, NY",
+            "CSAFP": "273",
+            "CBSAFP": "23500",
+            "AFFGEOID": "310M200US23500",
+            "GEOID": "23500",
+            "NAME": "Gaffney, SC",
             "LSAD": "M2",
-            "ALAND": 838403626,
-            "AWATER": 172828921
+            "ALAND": 1016985344,
+            "AWATER": 11701051
           }
         },
         {
-          "arcs": [[-206, 265, 266, 267, 268]],
+          "arcs": [[902, 903, 904, 905, 906]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "198",
-            "CBSAFP": "17060",
-            "AFFGEOID": "310M200US17060",
-            "GEOID": "17060",
-            "NAME": "Chillicothe, OH",
-            "LSAD": "M2",
-            "ALAND": 1784987273,
-            "AWATER": 9938174
+            "CSAFP": "290",
+            "CBSAFP": "19460",
+            "AFFGEOID": "310M200US19460",
+            "GEOID": "19460",
+            "NAME": "Decatur, AL",
+            "LSAD": "M1",
+            "ALAND": 3289381161,
+            "AWATER": 119693420
           }
         },
         {
-          "arcs": [[269, 270, 271]],
+          "arcs": [[907, 908, 909]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "46620",
+            "AFFGEOID": "310M200US46620",
+            "GEOID": "46620",
+            "NAME": "Uvalde, TX",
+            "LSAD": "M2",
+            "ALAND": 4019519389,
+            "AWATER": 17321923
+          }
+        },
+        {
+          "arcs": [[910, 911, 912, 913, 914, 915]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "338",
+            "CBSAFP": "47540",
+            "AFFGEOID": "310M200US47540",
+            "GEOID": "47540",
+            "NAME": "Wapakoneta, OH",
+            "LSAD": "M2",
+            "ALAND": 1039599279,
+            "AWATER": 1345186
+          }
+        },
+        {
+          "arcs": [[916, -636, 917, 918, 919, 920, 921]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "13540",
+            "AFFGEOID": "310M200US13540",
+            "GEOID": "13540",
+            "NAME": "Bennington, VT",
+            "LSAD": "M2",
+            "ALAND": 1748198169,
+            "AWATER": 6926826
+          }
+        },
+        {
+          "arcs": [[922, 923, 924, -689, 925, 926]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "46860",
+            "AFFGEOID": "310M200US46860",
+            "GEOID": "46860",
+            "NAME": "Vernal, UT",
+            "LSAD": "M2",
+            "ALAND": 11609285613,
+            "AWATER": 56154091
+          }
+        },
+        {
+          "arcs": [[927, -232, 928, 929, 930, 931]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "236",
+            "CBSAFP": "21300",
+            "AFFGEOID": "310M200US21300",
+            "GEOID": "21300",
+            "NAME": "Elmira, NY",
+            "LSAD": "M1",
+            "ALAND": 1055038636,
+            "AWATER": 8874334
+          }
+        },
+        {
+          "arcs": [[932, 933, 934, 935, 936, 937]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "382",
+            "CBSAFP": "33700",
+            "AFFGEOID": "310M200US33700",
+            "GEOID": "33700",
+            "NAME": "Modesto, CA",
+            "LSAD": "M1",
+            "ALAND": 3870867629,
+            "AWATER": 51101821
+          }
+        },
+        {
+          "arcs": [[938, 939, 940, 941, -213]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "104",
+            "CBSAFP": "26460",
+            "AFFGEOID": "310M200US26460",
+            "GEOID": "26460",
+            "NAME": "Hudson, NY",
+            "LSAD": "M2",
+            "ALAND": 1643936648,
+            "AWATER": 35063635
+          }
+        },
+        {
+          "arcs": [[942, 943, 944, 945]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "37340",
+            "AFFGEOID": "310M200US37340",
+            "GEOID": "37340",
+            "NAME": "Palm Bay-Melbourne-Titusville, FL",
+            "LSAD": "M1",
+            "ALAND": 2629960540,
+            "AWATER": 1402786334
+          }
+        },
+        {
+          "arcs": [[946, 947, -565, 948]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "38420",
+            "AFFGEOID": "310M200US38420",
+            "GEOID": "38420",
+            "NAME": "Platteville, WI",
+            "LSAD": "M2",
+            "ALAND": 2970368436,
+            "AWATER": 94555361
+          }
+        },
+        {
+          "arcs": [[949, 950, 951, 952, 953]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "15060",
+            "AFFGEOID": "310M200US15060",
+            "GEOID": "15060",
+            "NAME": "Brookings, OR",
+            "LSAD": "M2",
+            "ALAND": 4215134990,
+            "AWATER": 934685387
+          }
+        },
+        {
+          "arcs": [[954, 955, 956, -386]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "122",
+            "CBSAFP": "27600",
+            "AFFGEOID": "310M200US27600",
+            "GEOID": "27600",
+            "NAME": "Jefferson, GA",
+            "LSAD": "M2",
+            "ALAND": 879716380,
+            "AWATER": 8906549
+          }
+        },
+        {
+          "arcs": [[-944, 957, -609, 958, 959]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "370",
+            "CBSAFP": "42680",
+            "AFFGEOID": "310M200US42680",
+            "GEOID": "42680",
+            "NAME": "Sebastian-Vero Beach, FL",
+            "LSAD": "M1",
+            "ALAND": 1302340528,
+            "AWATER": 295574851
+          }
+        },
+        {
+          "arcs": [[960, -432, 961, 962, -528, -255]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "146",
+            "CBSAFP": "30260",
+            "AFFGEOID": "310M200US30260",
+            "GEOID": "30260",
+            "NAME": "Lewisburg, PA",
+            "LSAD": "M2",
+            "ALAND": 818399145,
+            "AWATER": 4639329
+          }
+        },
+        {
+          "arcs": [[963, 964, 965, 966, 967]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "36340",
+            "AFFGEOID": "310M200US36340",
+            "GEOID": "36340",
+            "NAME": "Oil City, PA",
+            "LSAD": "M2",
+            "ALAND": 1746387420,
+            "AWATER": 22148537
+          }
+        },
+        {
+          "arcs": [[968, 969, 970, 971, 972, -354]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "10460",
+            "AFFGEOID": "310M200US10460",
+            "GEOID": "10460",
+            "NAME": "Alamogordo, NM",
+            "LSAD": "M2",
+            "ALAND": 17128142410,
+            "AWATER": 37012231
+          }
+        },
+        {
+          "arcs": [[973, 974, -757, 975, 976, 977, 978, 979, 980, 981]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "548",
+            "CBSAFP": "47900",
+            "AFFGEOID": "310M200US47900",
+            "GEOID": "47900",
+            "NAME": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+            "LSAD": "M1",
+            "ALAND": 16178106918,
+            "AWATER": 1124017724
+          }
+        },
+        {
+          "arcs": [[-150, 982, -803, 983, 984, 985, 986, 987, -766, 988, 989]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "416",
+            "CBSAFP": "36420",
+            "AFFGEOID": "310M200US36420",
+            "GEOID": "36420",
+            "NAME": "Oklahoma City, OK",
+            "LSAD": "M1",
+            "ALAND": 14275025160,
+            "AWATER": 181554378
+          }
+        },
+        {
+          "arcs": [[990, -56]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "13900",
+            "AFFGEOID": "310M200US13900",
+            "GEOID": "13900",
+            "NAME": "Bismarck, ND",
+            "LSAD": "M1",
+            "ALAND": 13922499393,
+            "AWATER": 252946938
+          }
+        },
+        {
+          "arcs": [[-577, 991, 992]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "29100",
+            "AFFGEOID": "310M200US29100",
+            "GEOID": "29100",
+            "NAME": "La Crosse-Onalaska, WI-MN",
+            "LSAD": "M1",
+            "ALAND": 2599849332,
+            "AWATER": 116616524
+          }
+        },
+        {
+          "arcs": [[-299, 993, 994, 995]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "17780",
+            "AFFGEOID": "310M200US17780",
+            "GEOID": "17780",
+            "NAME": "College Station-Bryan, TX",
+            "LSAD": "M1",
+            "ALAND": 5439680731,
+            "AWATER": 85824949
+          }
+        },
+        {
+          "arcs": [[-499, 996]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "12900",
+            "AFFGEOID": "310M200US12900",
+            "GEOID": "12900",
+            "NAME": "Batesville, AR",
+            "LSAD": "M2",
+            "ALAND": 1978630975,
+            "AWATER": 19594198
+          }
+        },
+        {
+          "arcs": [[997, -501, 998, 999, 1000, 1001, 1002, 1003]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "340",
+            "CBSAFP": "30780",
+            "AFFGEOID": "310M200US30780",
+            "GEOID": "30780",
+            "NAME": "Little Rock-North Little Rock-Conway, AR",
+            "LSAD": "M1",
+            "ALAND": 10578440901,
+            "AWATER": 295694130
+          }
+        },
+        {
+          "arcs": [[1004, 1005, 1006, 1007, 1008, 1009]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "20540",
+            "AFFGEOID": "310M200US20540",
+            "GEOID": "20540",
+            "NAME": "Dyersburg, TN",
+            "LSAD": "M2",
+            "ALAND": 1326922856,
+            "AWATER": 36778051
+          }
+        },
+        {
+          "arcs": [[1010, 1011, 1012, 1013]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "120",
+            "CBSAFP": "14820",
+            "AFFGEOID": "310M200US14820",
+            "GEOID": "14820",
+            "NAME": "Brevard, NC",
+            "LSAD": "M2",
+            "ALAND": 980388876,
+            "AWATER": 5135255
+          }
+        },
+        {
+          "arcs": [[1014, 1015, 1016]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "268",
-            "CBSAFP": "15500",
-            "AFFGEOID": "310M200US15500",
-            "GEOID": "15500",
-            "NAME": "Burlington, NC",
-            "LSAD": "M1",
-            "ALAND": 1098038862,
-            "AWATER": 27933266
+            "CBSAFP": "34340",
+            "AFFGEOID": "310M200US34340",
+            "GEOID": "34340",
+            "NAME": "Mount Airy, NC",
+            "LSAD": "M2",
+            "ALAND": 1378305039,
+            "AWATER": 10715035
           }
         },
         {
-          "arcs": [[272, 273, 274, 275, 276, 277, -138, 278]],
+          "arcs": [[1017, 1018, 1019, 1020]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "10500",
-            "AFFGEOID": "310M200US10500",
-            "GEOID": "10500",
-            "NAME": "Albany, GA",
+            "CBSAFP": "31820",
+            "AFFGEOID": "310M200US31820",
+            "GEOID": "31820",
+            "NAME": "Manitowoc, WI",
+            "LSAD": "M2",
+            "ALAND": 1526310981,
+            "AWATER": 2343326774
+          }
+        },
+        {
+          "arcs": [[1021, 1022]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "408",
+            "CBSAFP": "45940",
+            "AFFGEOID": "310M200US45940",
+            "GEOID": "45940",
+            "NAME": "Trenton, NJ",
             "LSAD": "M1",
-            "ALAND": 5005402344,
-            "AWATER": 65696221
-          }
-        },
-        {
-          "arcs": [[279, 280, 281, 282, 283, 284, 285, 286, -7, 287, -251]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "258",
-            "CBSAFP": "23060",
-            "AFFGEOID": "310M200US23060",
-            "GEOID": "23060",
-            "NAME": "Fort Wayne, IN",
-            "LSAD": "M1",
-            "ALAND": 3524916106,
-            "AWATER": 18669917
-          }
-        },
-        {
-          "arcs": [[288, 289]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "21380",
-            "AFFGEOID": "310M200US21380",
-            "GEOID": "21380",
-            "NAME": "Emporia, KS",
-            "LSAD": "M2",
-            "ALAND": 2194958185,
-            "AWATER": 20561715
-          }
-        },
-        {
-          "arcs": [[290, 291, 292]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "358",
-            "CBSAFP": "31740",
-            "AFFGEOID": "310M200US31740",
-            "GEOID": "31740",
-            "NAME": "Manhattan, KS",
-            "LSAD": "M1",
-            "ALAND": 3757549512,
-            "AWATER": 85639947
-          }
-        },
-        {
-          "arcs": [[293, 294, -82, 295, 296]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "352",
-            "CBSAFP": "31180",
-            "AFFGEOID": "310M200US31180",
-            "GEOID": "31180",
-            "NAME": "Lubbock, TX",
-            "LSAD": "M1",
-            "ALAND": 6961014817,
-            "AWATER": 21260554
-          }
-        },
-        {
-          "arcs": [[297, 298, 299, 300]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "47380",
-            "AFFGEOID": "310M200US47380",
-            "GEOID": "47380",
-            "NAME": "Waco, TX",
-            "LSAD": "M1",
-            "ALAND": 4668694471,
-            "AWATER": 81529872
-          }
-        },
-        {
-          "arcs": [[301, 302, 303, -272, 304, 305, 306, 307]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "268",
-            "CBSAFP": "24660",
-            "AFFGEOID": "310M200US24660",
-            "GEOID": "24660",
-            "NAME": "Greensboro-High Point, NC",
-            "LSAD": "M1",
-            "ALAND": 5161864504,
-            "AWATER": 69081871
-          }
-        },
-        {
-          "arcs": [[308, 309, 310, 311, 312]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "309",
-            "CBSAFP": "27900",
-            "AFFGEOID": "310M200US27900",
-            "GEOID": "27900",
-            "NAME": "Joplin, MO",
-            "LSAD": "M1",
-            "ALAND": 3271758238,
-            "AWATER": 11950922
-          }
-        },
-        {
-          "arcs": [[313, 314, 315]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27580",
-            "AFFGEOID": "310M200US27580",
-            "GEOID": "27580",
-            "NAME": "Jayuya, PR",
-            "LSAD": "M2",
-            "ALAND": 115340552,
-            "AWATER": 3091
-          }
-        },
-        {
-          "arcs": [[316, 317, 318, 319, 320, 321, 322, 323]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "356",
-            "CBSAFP": "31420",
-            "AFFGEOID": "310M200US31420",
-            "GEOID": "31420",
-            "NAME": "Macon, GA",
-            "LSAD": "M1",
-            "ALAND": 4461725312,
-            "AWATER": 38847900
-          }
-        },
-        {
-          "arcs": [[324, 325, -42, 326, -92]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "28260",
-            "AFFGEOID": "310M200US28260",
-            "GEOID": "28260",
-            "NAME": "Kearney, NE",
-            "LSAD": "M2",
-            "ALAND": 3844421270,
-            "AWATER": 19189241
-          }
-        },
-        {
-          "arcs": [[327, 328, 329, 330]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "312",
-            "CBSAFP": "36840",
-            "AFFGEOID": "310M200US36840",
-            "GEOID": "36840",
-            "NAME": "Ottawa, KS",
-            "LSAD": "M2",
-            "ALAND": 1480858186,
-            "AWATER": 13918274
-          }
-        },
-        {
-          "arcs": [[331, 332, 333, 334]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "520",
-            "CBSAFP": "14700",
-            "AFFGEOID": "310M200US14700",
-            "GEOID": "14700",
-            "NAME": "Branson, MO",
-            "LSAD": "M2",
-            "ALAND": 2839860330,
-            "AWATER": 170786575
-          }
-        },
-        {
-          "arcs": [[335, 336]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "11620",
-            "AFFGEOID": "310M200US11620",
-            "GEOID": "11620",
-            "NAME": "Ardmore, OK",
-            "LSAD": "M2",
-            "ALAND": 2129427858,
-            "AWATER": 30013356
-          }
-        },
-        {
-          "arcs": [[337, 338, 339, -90, -230, -263]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "532",
-            "CBSAFP": "12180",
-            "AFFGEOID": "310M200US12180",
-            "GEOID": "12180",
-            "NAME": "Auburn, NY",
-            "LSAD": "M2",
-            "ALAND": 1791214123,
-            "AWATER": 445685237
-          }
-        },
-        {
-          "arcs": [[[340]], [[341, 342, 343, 344]]],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "534",
-            "CBSAFP": "38840",
-            "AFFGEOID": "310M200US38840",
-            "GEOID": "38840",
-            "NAME": "Port Clinton, OH",
-            "LSAD": "M2",
-            "ALAND": 660275590,
-            "AWATER": 855031761
-          }
-        },
-        {
-          "arcs": [[345, 346, 347]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "522",
-            "CBSAFP": "27300",
-            "AFFGEOID": "310M200US27300",
-            "GEOID": "27300",
-            "NAME": "Jacksonville, IL",
-            "LSAD": "M2",
-            "ALAND": 2123056101,
-            "AWATER": 13877698
-          }
-        },
-        {
-          "arcs": [[348, 349, 350, 351, 352]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "428",
-            "CBSAFP": "39740",
-            "AFFGEOID": "310M200US39740",
-            "GEOID": "39740",
-            "NAME": "Reading, PA",
-            "LSAD": "M1",
-            "ALAND": 2218040257,
-            "AWATER": 24252061
-          }
-        },
-        {
-          "arcs": [[353, 354, 355, 356, 357]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "238",
-            "CBSAFP": "29740",
-            "AFFGEOID": "310M200US29740",
-            "GEOID": "29740",
-            "NAME": "Las Cruces, NM",
-            "LSAD": "M1",
-            "ALAND": 9862379062,
-            "AWATER": 17584926
-          }
-        },
-        {
-          "arcs": [[358, 359, 360, 361]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "466",
-            "CBSAFP": "23300",
-            "AFFGEOID": "310M200US23300",
-            "GEOID": "23300",
-            "NAME": "Freeport, IL",
-            "LSAD": "M2",
-            "ALAND": 1462175613,
-            "AWATER": 1385929
-          }
-        },
-        {
-          "arcs": [[362]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "16060",
-            "AFFGEOID": "310M200US16060",
-            "GEOID": "16060",
-            "NAME": "Carbondale-Marion, IL",
-            "LSAD": "M1",
-            "ALAND": 2600974322,
-            "AWATER": 110046661
-          }
-        },
-        {
-          "arcs": [[363, 364, -108, 365, -123, 366]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "424",
-            "CBSAFP": "32460",
-            "AFFGEOID": "310M200US32460",
-            "GEOID": "32460",
-            "NAME": "Mayfield, KY",
-            "LSAD": "M2",
-            "ALAND": 1429026036,
-            "AWATER": 13047565
-          }
-        },
-        {
-          "arcs": [[367, 368, 369]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "170",
-            "CBSAFP": "30880",
-            "AFFGEOID": "310M200US30880",
-            "GEOID": "30880",
-            "NAME": "Logan, WV",
-            "LSAD": "M2",
-            "ALAND": 1175209714,
-            "AWATER": 4830097
-          }
-        },
-        {
-          "arcs": [[370, 371, 372, 373, 374]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "184",
-            "CBSAFP": "11780",
-            "AFFGEOID": "310M200US11780",
-            "GEOID": "11780",
-            "NAME": "Ashtabula, OH",
-            "LSAD": "M2",
-            "ALAND": 1818008353,
-            "AWATER": 1724826028
-          }
-        },
-        {
-          "arcs": [[375, -334, 376, 377, 378, 379]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25460",
-            "AFFGEOID": "310M200US25460",
-            "GEOID": "25460",
-            "NAME": "Harrison, AR",
-            "LSAD": "M2",
-            "ALAND": 3655085427,
-            "AWATER": 36153684
+            "ALAND": 581629671,
+            "AWATER": 11189320
           }
         },
         {
           "arcs": [
             [
-              380, 381, 382, 383, 384, 385, 386, 387, -317, 388, 389, 390, 391,
-              392
+              1023, 1024, -967, 1025, 1026, -445, 1027, 1028, 1029, 1030, 1031,
+              1032, -129
             ]
           ],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "122",
-            "CBSAFP": "12060",
-            "AFFGEOID": "310M200US12060",
-            "GEOID": "12060",
-            "NAME": "Atlanta-Sandy Springs-Roswell, GA",
+            "CSAFP": "430",
+            "CBSAFP": "38300",
+            "AFFGEOID": "310M200US38300",
+            "GEOID": "38300",
+            "NAME": "Pittsburgh, PA",
             "LSAD": "M1",
-            "ALAND": 22485809510,
-            "AWATER": 398427699
+            "ALAND": 13678958451,
+            "AWATER": 157924987
           }
         },
         {
-          "arcs": [[393]],
+          "arcs": [[1033, 1034, 1035, 1036, 1037]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "28540",
-            "AFFGEOID": "310M200US28540",
-            "GEOID": "28540",
-            "NAME": "Ketchikan, AK",
+            "CBSAFP": "47180",
+            "AFFGEOID": "310M200US47180",
+            "GEOID": "47180",
+            "NAME": "Vincennes, IN",
             "LSAD": "M2",
-            "ALAND": 12583284815,
-            "AWATER": 4649397284
+            "ALAND": 1336514522,
+            "AWATER": 20754774
           }
         },
         {
-          "arcs": [[394, 395, 396, -382, 397, 398]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "470",
-            "CBSAFP": "40660",
-            "AFFGEOID": "310M200US40660",
-            "GEOID": "40660",
-            "NAME": "Rome, GA",
-            "LSAD": "M1",
-            "ALAND": 1320694741,
-            "AWATER": 22123843
-          }
-        },
-        {
-          "arcs": [[399, 400]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "140",
-            "CBSAFP": "39260",
-            "AFFGEOID": "310M200US39260",
-            "GEOID": "39260",
-            "NAME": "Prineville, OR",
-            "LSAD": "M2",
-            "ALAND": 7715900050,
-            "AWATER": 21091929
-          }
-        },
-        {
-          "arcs": [[401, 402, 403, 404, 405, 406]],
+          "arcs": [[1038, 1039, 1040, -70, 1041, 1042, 1043, 1044]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "49080",
-            "AFFGEOID": "310M200US49080",
-            "GEOID": "49080",
-            "NAME": "Winnemucca, NV",
-            "LSAD": "M2",
-            "ALAND": 24969524844,
-            "AWATER": 44196979
+            "CBSAFP": "43340",
+            "AFFGEOID": "310M200US43340",
+            "GEOID": "43340",
+            "NAME": "Shreveport-Bossier City, LA",
+            "LSAD": "M1",
+            "ALAND": 8257355725,
+            "AWATER": 324450049
           }
         },
         {
-          "arcs": [[-252, -288, -9, 407, 408, 409]],
+          "arcs": [[1045, 1046]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "452",
+            "CBSAFP": "39660",
+            "AFFGEOID": "310M200US39660",
+            "GEOID": "39660",
+            "NAME": "Rapid City, SD",
+            "LSAD": "M1",
+            "ALAND": 20213700213,
+            "AWATER": 56143347
+          }
+        },
+        {
+          "arcs": [[1047, 1048]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "47340",
-            "AFFGEOID": "310M200US47340",
-            "GEOID": "47340",
-            "NAME": "Wabash, IN",
+            "CBSAFP": "23940",
+            "AFFGEOID": "310M200US23940",
+            "GEOID": "23940",
+            "NAME": "Gillette, WY",
             "LSAD": "M2",
-            "ALAND": 1068206218,
-            "AWATER": 22115988
+            "ALAND": 12437852902,
+            "AWATER": 10357549
           }
         },
         {
-          "arcs": [[-398, -381, 410]],
+          "arcs": [[1049, -121, 1050, 1051, 1052, 1053]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "122",
-            "CBSAFP": "16340",
-            "AFFGEOID": "310M200US16340",
-            "GEOID": "16340",
-            "NAME": "Cedartown, GA",
-            "LSAD": "M2",
-            "ALAND": 803772833,
-            "AWATER": 4667496
-          }
-        },
-        {
-          "arcs": [[411, 412]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "378",
-            "CBSAFP": "26780",
-            "AFFGEOID": "310M200US26780",
-            "GEOID": "26780",
-            "NAME": "Hutchinson, MN",
-            "LSAD": "M2",
-            "ALAND": 1272903790,
-            "AWATER": 36406719
-          }
-        },
-        {
-          "arcs": [[413, 414, 415, 416, 417, 418, 419]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "500",
-            "CBSAFP": "16500",
-            "AFFGEOID": "310M200US16500",
-            "GEOID": "16500",
-            "NAME": "Centralia, WA",
-            "LSAD": "M2",
-            "ALAND": 6223223859,
-            "AWATER": 86636988
-          }
-        },
-        {
-          "arcs": [[420, 421, 422, 423, -21, 424, -152, 425]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "168",
-            "CBSAFP": "16300",
-            "AFFGEOID": "310M200US16300",
-            "GEOID": "16300",
-            "NAME": "Cedar Rapids, IA",
+            "CSAFP": "160",
+            "CBSAFP": "15380",
+            "AFFGEOID": "310M200US15380",
+            "GEOID": "15380",
+            "NAME": "Buffalo-Cheektowaga-Niagara Falls, NY",
             "LSAD": "M1",
-            "ALAND": 5202686443,
-            "AWATER": 29083693
+            "ALAND": 4053461568,
+            "AWATER": 2075804933
           }
         },
         {
-          "arcs": [[426, 427, 428]],
+          "arcs": [[1054, 1055, 1056, 1057]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "212",
-            "CBSAFP": "44220",
-            "AFFGEOID": "310M200US44220",
-            "GEOID": "44220",
-            "NAME": "Springfield, OH",
+            "CSAFP": "",
+            "CBSAFP": "41100",
+            "AFFGEOID": "310M200US41100",
+            "GEOID": "41100",
+            "NAME": "St. George, UT",
             "LSAD": "M1",
-            "ALAND": 1029469370,
-            "AWATER": 13070242
+            "ALAND": 6285672118,
+            "AWATER": 9134289
           }
         },
         {
-          "arcs": [[429, 430, 431, 432, 433]],
+          "arcs": [[1058, 1059, 1060, 1061, -201, 1062]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "217",
+            "CBSAFP": "22860",
+            "AFFGEOID": "310M200US22860",
+            "GEOID": "22860",
+            "NAME": "Fort Polk South, LA",
+            "LSAD": "M2",
+            "ALAND": 3439275943,
+            "AWATER": 35153783
+          }
+        },
+        {
+          "arcs": [[1063, 1064, 1065, 1066]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "548",
+            "CBSAFP": "20660",
+            "AFFGEOID": "310M200US20660",
+            "GEOID": "20660",
+            "NAME": "Easton, MD",
+            "LSAD": "M2",
+            "ALAND": 695511462,
+            "AWATER": 539408789
+          }
+        },
+        {
+          "arcs": [[-261, 1067, 1068, -170, 1069, 1070, 1071]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "30940",
+            "AFFGEOID": "310M200US30940",
+            "GEOID": "30940",
+            "NAME": "London, KY",
+            "LSAD": "M2",
+            "ALAND": 3258431131,
+            "AWATER": 47847303
+          }
+        },
+        {
+          "arcs": [[1072, 1073, 1074, 1075]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "162",
+            "CBSAFP": "15980",
+            "AFFGEOID": "310M200US15980",
+            "GEOID": "15980",
+            "NAME": "Cape Coral-Fort Myers, FL",
+            "LSAD": "M1",
+            "ALAND": 2031443679,
+            "AWATER": 1108606586
+          }
+        },
+        {
+          "arcs": [[-277, 1076, 1077, -854, 1078, 1079]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "34220",
+            "AFFGEOID": "310M200US34220",
+            "GEOID": "34220",
+            "NAME": "Moultrie, GA",
+            "LSAD": "M2",
+            "ALAND": 1416686380,
+            "AWATER": 25002138
+          }
+        },
+        {
+          "arcs": [[1080, 1081]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "178",
+            "CBSAFP": "32500",
+            "AFFGEOID": "310M200US32500",
+            "GEOID": "32500",
+            "NAME": "Maysville, KY",
+            "LSAD": "M2",
+            "ALAND": 621929411,
+            "AWATER": 16276288
+          }
+        },
+        {
+          "arcs": [[1082, 1083]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "37460",
+            "AFFGEOID": "310M200US37460",
+            "GEOID": "37460",
+            "NAME": "Panama City, FL",
+            "LSAD": "M1",
+            "ALAND": 3398182520,
+            "AWATER": 1205718482
+          }
+        },
+        {
+          "arcs": [[1084, 1085, 1086, 1087, 1088, -780, 1089]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "482",
+            "CBSAFP": "44920",
+            "AFFGEOID": "310M200US44920",
+            "GEOID": "44920",
+            "NAME": "Summit Park, UT",
+            "LSAD": "M2",
+            "ALAND": 4844755736,
+            "AWATER": 26612845
+          }
+        },
+        {
+          "arcs": [[-953, 1090, 1091, 1092, 1093]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "18860",
+            "AFFGEOID": "310M200US18860",
+            "GEOID": "18860",
+            "NAME": "Crescent City, CA",
+            "LSAD": "M2",
+            "ALAND": 2606282680,
+            "AWATER": 578761025
+          }
+        },
+        {
+          "arcs": [[1094, 1095, 1096, 1097, -686]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "300",
+            "CBSAFP": "37260",
+            "AFFGEOID": "310M200US37260",
+            "GEOID": "37260",
+            "NAME": "Palatka, FL",
+            "LSAD": "M2",
+            "ALAND": 1885199824,
+            "AWATER": 256515596
+          }
+        },
+        {
+          "arcs": [[1098, 1099, 1100, 1101, 1102]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "18900",
+            "AFFGEOID": "310M200US18900",
+            "GEOID": "18900",
+            "NAME": "Crossville, TN",
+            "LSAD": "M2",
+            "ALAND": 1763849866,
+            "AWATER": 9823729
+          }
+        },
+        {
+          "arcs": [[-143, -874, 1103, 1104, 1105]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "222",
+            "CBSAFP": "20020",
+            "AFFGEOID": "310M200US20020",
+            "GEOID": "20020",
+            "NAME": "Dothan, AL",
+            "LSAD": "M1",
+            "ALAND": 4444378744,
+            "AWATER": 33487986
+          }
+        },
+        {
+          "arcs": [[1106]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "32540",
+            "AFFGEOID": "310M200US32540",
+            "GEOID": "32540",
+            "NAME": "McAlester, OK",
+            "LSAD": "M2",
+            "ALAND": 3381152482,
+            "AWATER": 187399167
+          }
+        },
+        {
+          "arcs": [[1107, 1108, -579, 1109, -962, -431, 1110]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "558",
-            "CBSAFP": "30820",
-            "AFFGEOID": "310M200US30820",
-            "GEOID": "30820",
-            "NAME": "Lock Haven, PA",
-            "LSAD": "M2",
-            "ALAND": 2299868232,
-            "AWATER": 23178794
-          }
-        },
-        {
-          "arcs": [[-292, 434, 435]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "358",
-            "CBSAFP": "27920",
-            "AFFGEOID": "310M200US27920",
-            "GEOID": "27920",
-            "NAME": "Junction City, KS",
-            "LSAD": "M2",
-            "ALAND": 996162685,
-            "AWATER": 51451918
-          }
-        },
-        {
-          "arcs": [[436, 437, 438]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "554",
-            "CBSAFP": "44620",
-            "AFFGEOID": "310M200US44620",
-            "GEOID": "44620",
-            "NAME": "Stevens Point, WI",
-            "LSAD": "M2",
-            "ALAND": 2074117686,
-            "AWATER": 56938029
-          }
-        },
-        {
-          "arcs": [[439, 440, 441, 442, 443, 444]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "306",
-            "CBSAFP": "27780",
-            "AFFGEOID": "310M200US27780",
-            "GEOID": "27780",
-            "NAME": "Johnstown, PA",
+            "CBSAFP": "48700",
+            "AFFGEOID": "310M200US48700",
+            "GEOID": "48700",
+            "NAME": "Williamsport, PA",
             "LSAD": "M1",
-            "ALAND": 1782823041,
-            "AWATER": 13677375
+            "ALAND": 3182060991,
+            "AWATER": 39457017
           }
         },
         {
-          "arcs": [[445, 446]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "339",
-            "CBSAFP": "13100",
-            "AFFGEOID": "310M200US13100",
-            "GEOID": "13100",
-            "NAME": "Beatrice, NE",
-            "LSAD": "M2",
-            "ALAND": 2205274215,
-            "AWATER": 22014404
-          }
-        },
-        {
-          "arcs": [[447, 448, 449, 450, 451]],
+          "arcs": [[-1079, -859, 1111, 1112]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "31380",
-            "AFFGEOID": "310M200US31380",
-            "GEOID": "31380",
-            "NAME": "Macomb, IL",
+            "CBSAFP": "45620",
+            "AFFGEOID": "310M200US45620",
+            "GEOID": "45620",
+            "NAME": "Thomasville, GA",
             "LSAD": "M2",
-            "ALAND": 1526558088,
-            "AWATER": 2012555
+            "ALAND": 1410510137,
+            "AWATER": 19728196
           }
         },
         {
-          "arcs": [[-50, 452, 453]],
+          "arcs": [[-154, 1113, 1114, 1115]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "198",
-            "CBSAFP": "32020",
-            "AFFGEOID": "310M200US32020",
-            "GEOID": "32020",
-            "NAME": "Marion, OH",
+            "CSAFP": "209",
+            "CBSAFP": "34700",
+            "AFFGEOID": "310M200US34700",
+            "GEOID": "34700",
+            "NAME": "Muscatine, IA",
             "LSAD": "M2",
-            "ALAND": 1045726876,
-            "AWATER": 908577
+            "ALAND": 1132986201,
+            "AWATER": 30253390
           }
         },
         {
-          "arcs": [[454, 455, 456]],
+          "arcs": [[-742, 1116, 1117]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "450",
-            "CBSAFP": "41820",
-            "AFFGEOID": "310M200US41820",
-            "GEOID": "41820",
-            "NAME": "Sanford, NC",
+            "CSAFP": "266",
+            "CBSAFP": "26090",
+            "AFFGEOID": "310M200US26090",
+            "GEOID": "26090",
+            "NAME": "Holland, MI",
             "LSAD": "M2",
-            "ALAND": 660335366,
-            "AWATER": 10582970
+            "ALAND": 2137343989,
+            "AWATER": 2610850577
           }
         },
         {
-          "arcs": [[457, 458, 459, 460, 461]],
+          "arcs": [[-1055, 1118]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "22660",
-            "AFFGEOID": "310M200US22660",
-            "GEOID": "22660",
-            "NAME": "Fort Collins, CO",
+            "CBSAFP": "16260",
+            "AFFGEOID": "310M200US16260",
+            "GEOID": "16260",
+            "NAME": "Cedar City, UT",
+            "LSAD": "M2",
+            "ALAND": 8537573733,
+            "AWATER": 11390956
+          }
+        },
+        {
+          "arcs": [[1119, 1120, 1121, 1122]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "17020",
+            "AFFGEOID": "310M200US17020",
+            "GEOID": "17020",
+            "NAME": "Chico, CA",
             "LSAD": "M1",
-            "ALAND": 6723986975,
-            "AWATER": 98048035
+            "ALAND": 4238422715,
+            "AWATER": 105325812
           }
         },
         {
-          "arcs": [[462, 463, 464]],
+          "arcs": [[-111, 1123]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "372",
-            "CBSAFP": "36220",
-            "AFFGEOID": "310M200US36220",
-            "GEOID": "36220",
-            "NAME": "Odessa, TX",
+            "CSAFP": "",
+            "CBSAFP": "34500",
+            "AFFGEOID": "310M200US34500",
+            "GEOID": "34500",
+            "NAME": "Mount Vernon, IL",
+            "LSAD": "M2",
+            "ALAND": 1479284991,
+            "AWATER": 32709408
+          }
+        },
+        {
+          "arcs": [[1124, 1125, 1126, 1127]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "31660",
+            "AFFGEOID": "310M200US31660",
+            "GEOID": "31660",
+            "NAME": "Malone, NY",
+            "LSAD": "M2",
+            "ALAND": 4219273083,
+            "AWATER": 177028893
+          }
+        },
+        {
+          "arcs": [[1128, 1129, -932, 1130]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "236",
+            "CBSAFP": "18500",
+            "AFFGEOID": "310M200US18500",
+            "GEOID": "18500",
+            "NAME": "Corning, NY",
+            "LSAD": "M2",
+            "ALAND": 3601566799,
+            "AWATER": 34993606
+          }
+        },
+        {
+          "arcs": [[1131, 1132, 1133, 1134]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "406",
+            "CBSAFP": "25220",
+            "AFFGEOID": "310M200US25220",
+            "GEOID": "25220",
+            "NAME": "Hammond, LA",
             "LSAD": "M1",
-            "ALAND": 2325094451,
-            "AWATER": 10597923
+            "ALAND": 2049504791,
+            "AWATER": 136674364
           }
         },
         {
-          "arcs": [[465, 466, 467, -281, 468]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "258",
-            "CBSAFP": "12140",
-            "AFFGEOID": "310M200US12140",
-            "GEOID": "12140",
-            "NAME": "Auburn, IN",
-            "LSAD": "M2",
-            "ALAND": 939732067,
-            "AWATER": 2657420
-          }
-        },
-        {
-          "arcs": [[469, 470, 471]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "536",
-            "CBSAFP": "35700",
-            "AFFGEOID": "310M200US35700",
-            "GEOID": "35700",
-            "NAME": "Nogales, AZ",
-            "LSAD": "M2",
-            "ALAND": 3203593349,
-            "AWATER": 3088047
-          }
-        },
-        {
-          "arcs": [[472, 473, 474, 475]],
+          "arcs": [[1135, 1136, 1137, 1138, 1139, -826]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "23660",
-            "AFFGEOID": "310M200US23660",
-            "GEOID": "23660",
-            "NAME": "Galesburg, IL",
-            "LSAD": "M2",
-            "ALAND": 1855506549,
-            "AWATER": 8834348
-          }
-        },
-        {
-          "arcs": [[476, 477, 478]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "20300",
-            "AFFGEOID": "310M200US20300",
-            "GEOID": "20300",
-            "NAME": "Dumas, TX",
-            "LSAD": "M2",
-            "ALAND": 2330188757,
-            "AWATER": 25718180
-          }
-        },
-        {
-          "arcs": [[-301, 479, 480, 481]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "28660",
-            "AFFGEOID": "310M200US28660",
-            "GEOID": "28660",
-            "NAME": "Killeen-Temple, TX",
+            "CBSAFP": "15260",
+            "AFFGEOID": "310M200US15260",
+            "GEOID": "15260",
+            "NAME": "Brunswick, GA",
             "LSAD": "M1",
-            "ALAND": 7293536095,
-            "AWATER": 110014155
+            "ALAND": 3332039102,
+            "AWATER": 828371760
           }
         },
         {
-          "arcs": [[482, 483]],
+          "arcs": [[1140, -1063, -204, -562, 1141, 1142]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "22700",
-            "AFFGEOID": "310M200US22700",
-            "GEOID": "22700",
-            "NAME": "Fort Dodge, IA",
-            "LSAD": "M2",
-            "ALAND": 1853443705,
-            "AWATER": 7277624
-          }
-        },
-        {
-          "arcs": [[484, 485]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "384",
-            "CBSAFP": "40820",
-            "AFFGEOID": "310M200US40820",
-            "GEOID": "40820",
-            "NAME": "Ruston, LA",
-            "LSAD": "M2",
-            "ALAND": 1221806132,
-            "AWATER": 1897709
-          }
-        },
-        {
-          "arcs": [[486, 487, -244, 488]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "448",
-            "CBSAFP": "25300",
-            "AFFGEOID": "310M200US25300",
-            "GEOID": "25300",
-            "NAME": "Hannibal, MO",
-            "LSAD": "M2",
-            "ALAND": 2348355014,
-            "AWATER": 55510742
-          }
-        },
-        {
-          "arcs": [[489, 490, 491, 492]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "22820",
-            "AFFGEOID": "310M200US22820",
-            "GEOID": "22820",
-            "NAME": "Fort Morgan, CO",
-            "LSAD": "M2",
-            "ALAND": 3316439900,
-            "AWATER": 34663099
-          }
-        },
-        {
-          "arcs": [[493, 494, 495, 496]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "288",
-            "CBSAFP": "26660",
-            "AFFGEOID": "310M200US26660",
-            "GEOID": "26660",
-            "NAME": "Huntsville, TX",
-            "LSAD": "M2",
-            "ALAND": 3827524076,
-            "AWATER": 97529546
-          }
-        },
-        {
-          "arcs": [[497, 498, 499, 500]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "340",
-            "CBSAFP": "42620",
-            "AFFGEOID": "310M200US42620",
-            "GEOID": "42620",
-            "NAME": "Searcy, AR",
-            "LSAD": "M2",
-            "ALAND": 2680883279,
-            "AWATER": 18261873
-          }
-        },
-        {
-          "arcs": [[501, 502, 503, 504, 505]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "462",
-            "CBSAFP": "12380",
-            "AFFGEOID": "310M200US12380",
-            "GEOID": "12380",
-            "NAME": "Austin, MN",
-            "LSAD": "M2",
-            "ALAND": 1842332263,
-            "AWATER": 617229
-          }
-        },
-        {
-          "arcs": [[506, 507, 508, 509, 510]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "17740",
-            "AFFGEOID": "310M200US17740",
-            "GEOID": "17740",
-            "NAME": "Coldwater, MI",
-            "LSAD": "M2",
-            "ALAND": 1311513993,
-            "AWATER": 34440013
-          }
-        },
-        {
-          "arcs": [[511, 512, 513, -285]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "258",
-            "CBSAFP": "19540",
-            "AFFGEOID": "310M200US19540",
-            "GEOID": "19540",
-            "NAME": "Decatur, IN",
-            "LSAD": "M2",
-            "ALAND": 878078799,
-            "AWATER": 2430642
-          }
-        },
-        {
-          "arcs": [[-163, 514, 515, 516, 517, 518]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "218",
-            "CBSAFP": "35500",
-            "AFFGEOID": "310M200US35500",
-            "GEOID": "35500",
-            "NAME": "Newton, IA",
-            "LSAD": "M2",
-            "ALAND": 1891773574,
-            "AWATER": 6565706
-          }
-        },
-        {
-          "arcs": [[519, 520, 521, 522]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25820",
-            "AFFGEOID": "310M200US25820",
-            "GEOID": "25820",
-            "NAME": "Hereford, TX",
-            "LSAD": "M2",
-            "ALAND": 3876866567,
-            "AWATER": 3926557
-          }
-        },
-        {
-          "arcs": [[523, 524, 525, 526]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "174",
-            "CBSAFP": "19140",
-            "AFFGEOID": "310M200US19140",
-            "GEOID": "19140",
-            "NAME": "Dalton, GA",
+            "CBSAFP": "13140",
+            "AFFGEOID": "310M200US13140",
+            "GEOID": "13140",
+            "NAME": "Beaumont-Port Arthur, TX",
             "LSAD": "M1",
-            "ALAND": 1644571669,
-            "AWATER": 7253399
+            "ALAND": 7858904931,
+            "AWATER": 764353319
           }
         },
         {
-          "arcs": [[527, 528, 529, -256]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "146",
-            "CBSAFP": "42780",
-            "AFFGEOID": "310M200US42780",
-            "GEOID": "42780",
-            "NAME": "Selinsgrove, PA",
-            "LSAD": "M2",
-            "ALAND": 851462481,
-            "AWATER": 7173377
-          }
-        },
-        {
-          "arcs": [[530, 531, 532, 533]],
+          "arcs": [[-178, 1143, 1144]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "43320",
-            "AFFGEOID": "310M200US43320",
-            "GEOID": "43320",
-            "NAME": "Show Low, AZ",
+            "CBSAFP": "28500",
+            "AFFGEOID": "310M200US28500",
+            "GEOID": "28500",
+            "NAME": "Kerrville, TX",
             "LSAD": "M2",
-            "ALAND": 25770082478,
-            "AWATER": 24078111
+            "ALAND": 2857583413,
+            "AWATER": 10247343
           }
         },
         {
-          "arcs": [[534, 535]],
+          "arcs": [[-140, 1145, -1112, -858, 1146]],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "",
-            "CBSAFP": "44020",
-            "AFFGEOID": "310M200US44020",
-            "GEOID": "44020",
-            "NAME": "Spirit Lake, IA",
-            "LSAD": "M2",
-            "ALAND": 985764407,
-            "AWATER": 60490790
-          }
-        },
-        {
-          "arcs": [[536, 537, -446, 538]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "339",
-            "CBSAFP": "30700",
-            "AFFGEOID": "310M200US30700",
-            "GEOID": "30700",
-            "NAME": "Lincoln, NE",
+            "CSAFP": "533",
+            "CBSAFP": "45220",
+            "AFFGEOID": "310M200US45220",
+            "GEOID": "45220",
+            "NAME": "Tallahassee, FL",
             "LSAD": "M1",
-            "ALAND": 3649230871,
-            "AWATER": 34424716
+            "ALAND": 6184050070,
+            "AWATER": 556601745
           }
         },
         {
-          "arcs": [[539, 540, 541, 542]],
+          "arcs": [[1147, -1105, 1148, -1084, 1149, 1150]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "12260",
-            "AFFGEOID": "310M200US12260",
-            "GEOID": "12260",
-            "NAME": "Augusta-Richmond County, GA-SC",
+            "CBSAFP": "18880",
+            "AFFGEOID": "310M200US18880",
+            "GEOID": "18880",
+            "NAME": "Crestview-Fort Walton Beach-Destin, FL",
             "LSAD": "M1",
-            "ALAND": 9015004609,
-            "AWATER": 262744093
+            "ALAND": 5097057920,
+            "AWATER": 916046870
           }
         },
         {
-          "arcs": [[543, 544, 545, 546]],
+          "arcs": [[1151, -452, 1152, 1153, 1154]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "29860",
-            "AFFGEOID": "310M200US29860",
-            "GEOID": "29860",
-            "NAME": "Laurel, MS",
+            "CBSAFP": "22800",
+            "AFFGEOID": "310M200US22800",
+            "GEOID": "22800",
+            "NAME": "Fort Madison-Keokuk, IA-IL-MO",
             "LSAD": "M2",
-            "ALAND": 3551003007,
-            "AWATER": 15858394
+            "ALAND": 4703265264,
+            "AWATER": 127299951
+          }
+        },
+        {
+          "arcs": [[1155, -639, 1156, 1157, 1158, 1159, 1160]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "280",
+            "CBSAFP": "25860",
+            "AFFGEOID": "310M200US25860",
+            "GEOID": "25860",
+            "NAME": "Hickory-Lenoir-Morganton, NC",
+            "LSAD": "M1",
+            "ALAND": 4240788334,
+            "AWATER": 75209737
           }
         },
         {
           "arcs": [
-            [547, 548, 549, 550, 551, 552, -527, 553, -396, 554, 555, 556, 557]
+            [
+              1161, 1162, 1163, 1164, 1165, 1166, 1167, 1168, 1169, 1170, 1171,
+              1172, 1173
+            ]
           ],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "174",
-            "CBSAFP": "16860",
-            "AFFGEOID": "310M200US16860",
-            "GEOID": "16860",
-            "NAME": "Chattanooga, TN-GA",
+            "CSAFP": "400",
+            "CBSAFP": "34980",
+            "AFFGEOID": "310M200US34980",
+            "GEOID": "34980",
+            "NAME": "Nashville-Davidson--Murfreesboro--Franklin, TN",
             "LSAD": "M1",
-            "ALAND": 5410466556,
-            "AWATER": 126498051
+            "ALAND": 16321410263,
+            "AWATER": 197967875
           }
         },
         {
-          "arcs": [[-203, 558, 559, 560, 561]],
+          "arcs": [[1174, 1175]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "29340",
-            "AFFGEOID": "310M200US29340",
-            "GEOID": "29340",
-            "NAME": "Lake Charles, LA",
-            "LSAD": "M1",
-            "ALAND": 6082764224,
-            "AWATER": 1767344271
-          }
-        },
-        {
-          "arcs": [[562, 563]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45340",
-            "AFFGEOID": "310M200US45340",
-            "GEOID": "45340",
-            "NAME": "Taos, NM",
+            "CBSAFP": "42420",
+            "AFFGEOID": "310M200US42420",
+            "GEOID": "42420",
+            "NAME": "Scottsbluff, NE",
             "LSAD": "M2",
-            "ALAND": 5705972272,
-            "AWATER": 3385844
+            "ALAND": 9200241400,
+            "AWATER": 17707405
           }
         },
         {
-          "arcs": [[564, 565, -423, 566]],
+          "arcs": [[1176, 1177, 1178, 1179, 1180]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "176",
+            "CBSAFP": "33140",
+            "AFFGEOID": "310M200US33140",
+            "GEOID": "33140",
+            "NAME": "Michigan City-La Porte, IN",
+            "LSAD": "M1",
+            "ALAND": 1549659085,
+            "AWATER": 38675577
+          }
+        },
+        {
+          "arcs": [[-554, -526, 1181, -383, -397]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "122",
+            "CBSAFP": "15660",
+            "AFFGEOID": "310M200US15660",
+            "GEOID": "15660",
+            "NAME": "Calhoun, GA",
+            "LSAD": "M2",
+            "ALAND": 921538728,
+            "AWATER": 5787828
+          }
+        },
+        {
+          "arcs": [[1182, 1183, 1184]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "194",
+            "CBSAFP": "12220",
+            "AFFGEOID": "310M200US12220",
+            "GEOID": "12220",
+            "NAME": "Auburn-Opelika, AL",
+            "LSAD": "M1",
+            "ALAND": 1573552324,
+            "AWATER": 21488937
+          }
+        },
+        {
+          "arcs": [[1185, 1186, -1137, 1187, 1188]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "496",
+            "CBSAFP": "25980",
+            "AFFGEOID": "310M200US25980",
+            "GEOID": "25980",
+            "NAME": "Hinesville, GA",
+            "LSAD": "M1",
+            "ALAND": 2374380758,
+            "AWATER": 232029278
+          }
+        },
+        {
+          "arcs": [[-846, 1189]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "20220",
-            "AFFGEOID": "310M200US20220",
-            "GEOID": "20220",
-            "NAME": "Dubuque, IA",
-            "LSAD": "M1",
-            "ALAND": 1575488097,
-            "AWATER": 21138791
+            "CBSAFP": "48820",
+            "AFFGEOID": "310M200US48820",
+            "GEOID": "48820",
+            "NAME": "Willmar, MN",
+            "LSAD": "M2",
+            "ALAND": 2064994134,
+            "AWATER": 168490993
           }
         },
         {
-          "arcs": [[567, 568, 569]],
+          "arcs": [[1190, 1191, 1192, 1193]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "14720",
+            "AFFGEOID": "310M200US14720",
+            "GEOID": "14720",
+            "NAME": "Breckenridge, CO",
+            "LSAD": "M2",
+            "ALAND": 1575579877,
+            "AWATER": 28287709
+          }
+        },
+        {
+          "arcs": [[1194, 1195, 1196, 1197]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "556",
+            "CBSAFP": "11680",
+            "AFFGEOID": "310M200US11680",
+            "GEOID": "11680",
+            "NAME": "Arkansas City-Winfield, KS",
+            "LSAD": "M2",
+            "ALAND": 2915656992,
+            "AWATER": 17314108
+          }
+        },
+        {
+          "arcs": [[-3, 1198, -374, 1199, -968, -1025, 1200, -127, 1201]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "566",
+            "CBSAFP": "49660",
+            "AFFGEOID": "310M200US49660",
+            "GEOID": "49660",
+            "NAME": "Youngstown-Warren-Boardman, OH-PA",
+            "LSAD": "M1",
+            "ALAND": 4409156947,
+            "AWATER": 108718491
+          }
+        },
+        {
+          "arcs": [[-1000, 1202, 1203, 1204]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "340",
+            "CBSAFP": "38220",
+            "AFFGEOID": "310M200US38220",
+            "GEOID": "38220",
+            "NAME": "Pine Bluff, AR",
+            "LSAD": "M1",
+            "ALAND": 5257911386,
+            "AWATER": 141461901
+          }
+        },
+        {
+          "arcs": [[1205, 1206, 1207, 1208, 1209, -718, -830]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "440",
+            "CBSAFP": "41420",
+            "AFFGEOID": "310M200US41420",
+            "GEOID": "41420",
+            "NAME": "Salem, OR",
+            "LSAD": "M1",
+            "ALAND": 4977573456,
+            "AWATER": 34719240
+          }
+        },
+        {
+          "arcs": [[1210, 1211, 1212, 1213]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "45000",
+            "AFFGEOID": "310M200US45000",
+            "GEOID": "45000",
+            "NAME": "Susanville, CA",
+            "LSAD": "M2",
+            "ALAND": 11761620852,
+            "AWATER": 463438654
+          }
+        },
+        {
+          "arcs": [[-1052, 1214, 1215, 1216, 1217]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "160",
+            "CBSAFP": "36460",
+            "AFFGEOID": "310M200US36460",
+            "GEOID": "36460",
+            "NAME": "Olean, NY",
+            "LSAD": "M2",
+            "ALAND": 3388637065,
+            "AWATER": 36604688
+          }
+        },
+        {
+          "arcs": [[-866, 1218]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "28860",
+            "AFFGEOID": "310M200US28860",
+            "GEOID": "28860",
+            "NAME": "Kirksville, MO",
+            "LSAD": "M2",
+            "ALAND": 2265278394,
+            "AWATER": 7684583
+          }
+        },
+        {
+          "arcs": [[-1102, 1219, 1220, -551, 1221]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "174",
+            "CBSAFP": "19420",
+            "AFFGEOID": "310M200US19420",
+            "GEOID": "19420",
+            "NAME": "Dayton, TN",
+            "LSAD": "M2",
+            "ALAND": 816823020,
+            "AWATER": 54463362
+          }
+        },
+        {
+          "arcs": [[-649, -208, 1222, 1223]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "178",
+            "CBSAFP": "48940",
+            "AFFGEOID": "310M200US48940",
+            "GEOID": "48940",
+            "NAME": "Wilmington, OH",
+            "LSAD": "M2",
+            "ALAND": 1058487158,
+            "AWATER": 9351754
+          }
+        },
+        {
+          "arcs": [[-33, -739]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "266",
+            "CBSAFP": "26960",
+            "AFFGEOID": "310M200US26960",
+            "GEOID": "26960",
+            "NAME": "Ionia, MI",
+            "LSAD": "M2",
+            "ALAND": 1479671935,
+            "AWATER": 22641047
+          }
+        },
+        {
+          "arcs": [[1224, -1013, 1225, 1226, -98, -234, 1227]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "273",
+            "CBSAFP": "42860",
+            "AFFGEOID": "310M200US42860",
+            "GEOID": "42860",
+            "NAME": "Seneca, SC",
+            "LSAD": "M2",
+            "ALAND": 1622113934,
+            "AWATER": 122274812
+          }
+        },
+        {
+          "arcs": [[1228, 1229, 1230, 1231, 1232, 1233, -619]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "540",
+            "CBSAFP": "27380",
+            "AFFGEOID": "310M200US27380",
+            "GEOID": "27380",
+            "NAME": "Jacksonville, TX",
+            "LSAD": "M2",
+            "ALAND": 2727190094,
+            "AWATER": 23873001
+          }
+        },
+        {
+          "arcs": [[1234, 1235, -933, 1236]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "488",
+            "CBSAFP": "44700",
+            "AFFGEOID": "310M200US44700",
+            "GEOID": "44700",
+            "NAME": "Stockton-Lodi, CA",
+            "LSAD": "M1",
+            "ALAND": 3603647025,
+            "AWATER": 91127543
+          }
+        },
+        {
+          "arcs": [[1237, 1238, 1239, 1240, 1241]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "148",
+            "CBSAFP": "31700",
+            "AFFGEOID": "310M200US31700",
+            "GEOID": "31700",
+            "NAME": "Manchester-Nashua, NH",
+            "LSAD": "M1",
+            "ALAND": 2269346872,
+            "AWATER": 41478107
+          }
+        },
+        {
+          "arcs": [[1242, 1243]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "13720",
+            "AFFGEOID": "310M200US13720",
+            "GEOID": "13720",
+            "NAME": "Big Stone Gap, VA",
+            "LSAD": "M2",
+            "ALAND": 1919744225,
+            "AWATER": 13440081
+          }
+        },
+        {
+          "arcs": [[1244, -357, 1245, 1246]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "19700",
+            "AFFGEOID": "310M200US19700",
+            "GEOID": "19700",
+            "NAME": "Deming, NM",
+            "LSAD": "M2",
+            "ALAND": 7679791940,
+            "AWATER": 431978
+          }
+        },
+        {
+          "arcs": [[1247, 1248, -448, -1152, 1249]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "15460",
+            "AFFGEOID": "310M200US15460",
+            "GEOID": "15460",
+            "NAME": "Burlington, IA-IL",
+            "LSAD": "M2",
+            "ALAND": 2058988476,
+            "AWATER": 77674750
+          }
+        },
+        {
+          "arcs": [[1250]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "21180",
+            "AFFGEOID": "310M200US21180",
+            "GEOID": "21180",
+            "NAME": "Elkins, WV",
+            "LSAD": "M2",
+            "ALAND": 2692796583,
+            "AWATER": 667359
+          }
+        },
+        {
+          "arcs": [[-1075, 1251, 1252, 1253, 1254]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "162",
+            "CBSAFP": "34940",
+            "AFFGEOID": "310M200US34940",
+            "GEOID": "34940",
+            "NAME": "Naples-Immokalee-Marco Island, FL",
+            "LSAD": "M1",
+            "ALAND": 5176959832,
+            "AWATER": 792901545
+          }
+        },
+        {
+          "arcs": [[1255, 1256]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "32340",
+            "AFFGEOID": "310M200US32340",
+            "GEOID": "32340",
+            "NAME": "Maryville, MO",
+            "LSAD": "M2",
+            "ALAND": 2271326597,
+            "AWATER": 2361588
+          }
+        },
+        {
+          "arcs": [[1257, -506, 1258, 1259]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "10660",
+            "AFFGEOID": "310M200US10660",
+            "GEOID": "10660",
+            "NAME": "Albert Lea, MN",
+            "LSAD": "M2",
+            "ALAND": 1831347092,
+            "AWATER": 39714579
+          }
+        },
+        {
+          "arcs": [[-223, 1260]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "16660",
+            "AFFGEOID": "310M200US16660",
+            "GEOID": "16660",
+            "NAME": "Charleston-Mattoon, IL",
+            "LSAD": "M2",
+            "ALAND": 2212662304,
+            "AWATER": 7163106
+          }
+        },
+        {
+          "arcs": [
+            [-1115, 1261, -19, -136, 1262, 1263, -473, 1264, -1248, 1265]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "209",
+            "CBSAFP": "19340",
+            "AFFGEOID": "310M200US19340",
+            "GEOID": "19340",
+            "NAME": "Davenport-Moline-Rock Island, IA-IL",
+            "LSAD": "M1",
+            "ALAND": 5878613363,
+            "AWATER": 114201813
+          }
+        },
+        {
+          "arcs": [[1266, 1267]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "37580",
+            "AFFGEOID": "310M200US37580",
+            "GEOID": "37580",
+            "NAME": "Paris, TX",
+            "LSAD": "M2",
+            "ALAND": 2349622228,
+            "AWATER": 67103153
+          }
+        },
+        {
+          "arcs": [[-1184, 1268, -833, -391, 1269, -587, 1270]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "194",
+            "CBSAFP": "17980",
+            "AFFGEOID": "310M200US17980",
+            "GEOID": "17980",
+            "NAME": "Columbus, GA-AL",
+            "LSAD": "M1",
+            "ALAND": 5014777653,
+            "AWATER": 61081469
+          }
+        },
+        {
+          "arcs": [[[1271, 1272, 1273, 1274]], [[1275, 1276]], [[1277]]],
+          "type": "MultiPolygon",
+          "properties": {
+            "CSAFP": "348",
+            "CBSAFP": "37100",
+            "AFFGEOID": "310M200US37100",
+            "GEOID": "37100",
+            "NAME": "Oxnard-Thousand Oaks-Ventura, CA",
+            "LSAD": "M1",
+            "ALAND": 4773381391,
+            "AWATER": 945947791
+          }
+        },
+        {
+          "arcs": [[1278, 1279, 1280, 1281]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "41740",
+            "AFFGEOID": "310M200US41740",
+            "GEOID": "41740",
+            "NAME": "San Diego-Carlsbad, CA",
+            "LSAD": "M1",
+            "ALAND": 10895227071,
+            "AWATER": 826282961
+          }
+        },
+        {
+          "arcs": [[-995, 1282, 1283, 1284]],
           "type": "Polygon",
           "properties": {
             "CSAFP": "288",
-            "CBSAFP": "20900",
-            "AFFGEOID": "310M200US20900",
-            "GEOID": "20900",
-            "NAME": "El Campo, TX",
+            "CBSAFP": "14780",
+            "AFFGEOID": "310M200US14780",
+            "GEOID": "14780",
+            "NAME": "Brenham, TX",
             "LSAD": "M2",
-            "ALAND": 2813116863,
-            "AWATER": 21288266
+            "ALAND": 1564237466,
+            "AWATER": 46089329
           }
         },
         {
-          "arcs": [[[570]], [[571]]],
+          "arcs": [[1285, -1003, 1286, 1287]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "284",
+            "CBSAFP": "26300",
+            "AFFGEOID": "310M200US26300",
+            "GEOID": "26300",
+            "NAME": "Hot Springs, AR",
+            "LSAD": "M1",
+            "ALAND": 1755505406,
+            "AWATER": 147165424
+          }
+        },
+        {
+          "arcs": [[-421, 1288, -861, 1289]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "47940",
+            "AFFGEOID": "310M200US47940",
+            "GEOID": "47940",
+            "NAME": "Waterloo-Cedar Falls, IA",
+            "LSAD": "M1",
+            "ALAND": 3893008619,
+            "AWATER": 28167535
+          }
+        },
+        {
+          "arcs": [[1290, 1291, 1292, 1293]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "30900",
+            "AFFGEOID": "310M200US30900",
+            "GEOID": "30900",
+            "NAME": "Logansport, IN",
+            "LSAD": "M2",
+            "ALAND": 1067475955,
+            "AWATER": 6974424
+          }
+        },
+        {
+          "arcs": [[-828, 1294, 1295, 1296, 1297, -1096, 1298, 1299, 1300]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "300",
+            "CBSAFP": "27260",
+            "AFFGEOID": "310M200US27260",
+            "GEOID": "27260",
+            "NAME": "Jacksonville, FL",
+            "LSAD": "M1",
+            "ALAND": 8293138571,
+            "AWATER": 1285729956
+          }
+        },
+        {
+          "arcs": [[1301, 1302, 1303, -540, 1304]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "273",
+            "CBSAFP": "24940",
+            "AFFGEOID": "310M200US24940",
+            "GEOID": "24940",
+            "NAME": "Greenwood, SC",
+            "LSAD": "M2",
+            "ALAND": 2448090456,
+            "AWATER": 74346297
+          }
+        },
+        {
+          "arcs": [[1305, 1306, 1307, -1032, 1308]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "48540",
+            "AFFGEOID": "310M200US48540",
+            "GEOID": "48540",
+            "NAME": "Wheeling, WV-OH",
+            "LSAD": "M1",
+            "ALAND": 2443371418,
+            "AWATER": 49371807
+          }
+        },
+        {
+          "arcs": [[1309, 1310]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "164",
+            "CBSAFP": "43460",
+            "AFFGEOID": "310M200US43460",
+            "GEOID": "43460",
+            "NAME": "Sikeston, MO",
+            "LSAD": "M2",
+            "ALAND": 1087765676,
+            "AWATER": 15199711
+          }
+        },
+        {
+          "arcs": [[1311, 1312, 1313, -1306, 1314, -749]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "198",
+            "CBSAFP": "15740",
+            "AFFGEOID": "310M200US15740",
+            "GEOID": "15740",
+            "NAME": "Cambridge, OH",
+            "LSAD": "M2",
+            "ALAND": 1352631185,
+            "AWATER": 15666075
+          }
+        },
+        {
+          "arcs": [[1315, 1316, 1317, 1318, 1319, -28, -883]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "376",
+            "CBSAFP": "33340",
+            "AFFGEOID": "310M200US33340",
+            "GEOID": "33340",
+            "NAME": "Milwaukee-Waukesha-West Allis, WI",
+            "LSAD": "M1",
+            "ALAND": 3767864626,
+            "AWATER": 4835860493
+          }
+        },
+        {
+          "arcs": [[-880, 1320, 1321, -53, -181]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "42700",
+            "AFFGEOID": "310M200US42700",
+            "GEOID": "42700",
+            "NAME": "Sebring, FL",
+            "LSAD": "M1",
+            "ALAND": 2632923680,
+            "AWATER": 231677932
+          }
+        },
+        {
+          "arcs": [[1322, 1323, 1324, 1325, 1326, 1327]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "38060",
+            "AFFGEOID": "310M200US38060",
+            "GEOID": "38060",
+            "NAME": "Phoenix-Mesa-Scottsdale, AZ",
+            "LSAD": "M1",
+            "ALAND": 37723752759,
+            "AWATER": 86675785
+          }
+        },
+        {
+          "arcs": [[1328, 1329, -726, 1330]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "434",
+            "CBSAFP": "42180",
+            "AFFGEOID": "310M200US42180",
+            "GEOID": "42180",
+            "NAME": "Santa Isabel, PR",
+            "LSAD": "M2",
+            "ALAND": 88144282,
+            "AWATER": 111140595
+          }
+        },
+        {
+          "arcs": [[1331, -511, 1332, -76, 1333]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "310",
+            "CBSAFP": "44780",
+            "AFFGEOID": "310M200US44780",
+            "GEOID": "44780",
+            "NAME": "Sturgis, MI",
+            "LSAD": "M2",
+            "ALAND": 1296553521,
+            "AWATER": 52912990
+          }
+        },
+        {
+          "arcs": [[-834, -1269, -1183, 1334]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "194",
+            "CBSAFP": "46740",
+            "AFFGEOID": "310M200US46740",
+            "GEOID": "46740",
+            "NAME": "Valley, AL",
+            "LSAD": "M2",
+            "ALAND": 1545009121,
+            "AWATER": 17048126
+          }
+        },
+        {
+          "arcs": [[1335, 1336, -440, -1027]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "430",
+            "CBSAFP": "26860",
+            "AFFGEOID": "310M200US26860",
+            "GEOID": "26860",
+            "NAME": "Indiana, PA",
+            "LSAD": "M2",
+            "ALAND": 2141999553,
+            "AWATER": 18812180
+          }
+        },
+        {
+          "arcs": [[1337, 1338, 1339, 1340]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "298",
+            "CBSAFP": "15020",
+            "AFFGEOID": "310M200US15020",
+            "GEOID": "15020",
+            "NAME": "Brookhaven, MS",
+            "LSAD": "M2",
+            "ALAND": 1518059682,
+            "AWATER": 5305564
+          }
+        },
+        {
+          "arcs": [[1341, -1099, 1342, -1166]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "",
+            "CBSAFP": "18260",
+            "AFFGEOID": "310M200US18260",
+            "GEOID": "18260",
+            "NAME": "Cookeville, TN",
+            "LSAD": "M2",
+            "ALAND": 2960919890,
+            "AWATER": 35497828
+          }
+        },
+        {
+          "arcs": [[1343, 1344, 1345]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "512",
+            "CBSAFP": "43580",
+            "AFFGEOID": "310M200US43580",
+            "GEOID": "43580",
+            "NAME": "Sioux City, IA-NE-SD",
+            "LSAD": "M1",
+            "ALAND": 7606652277,
+            "AWATER": 57004554
+          }
+        },
+        {
+          "arcs": [[[1346]], [[1347, 1348]]],
           "type": "MultiPolygon",
           "properties": {
             "CSAFP": "",
-            "CBSAFP": "27940",
-            "AFFGEOID": "310M200US27940",
-            "GEOID": "27940",
-            "NAME": "Juneau, AK",
+            "CBSAFP": "45900",
+            "AFFGEOID": "310M200US45900",
+            "GEOID": "45900",
+            "NAME": "Traverse City, MI",
             "LSAD": "M2",
-            "ALAND": 6998182120,
-            "AWATER": 1429472851
+            "ALAND": 4379940086,
+            "AWATER": 7440196064
           }
         },
         {
-          "arcs": [[572, 573, 574]],
+          "arcs": [
+            [1349, 1350, 1351, -418, 1352, 1353, 1354, 1355, -1207, 1356]
+          ],
           "type": "Polygon",
           "properties": {
-            "CSAFP": "428",
-            "CBSAFP": "36140",
-            "AFFGEOID": "310M200US36140",
-            "GEOID": "36140",
-            "NAME": "Ocean City, NJ",
+            "CSAFP": "440",
+            "CBSAFP": "38900",
+            "AFFGEOID": "310M200US38900",
+            "GEOID": "38900",
+            "NAME": "Portland-Vancouver-Hillsboro, OR-WA",
             "LSAD": "M1",
-            "ALAND": 651209688,
-            "AWATER": 955666476
+            "ALAND": 17311313130,
+            "AWATER": 356212910
           }
         },
-        {
-          "arcs": [[575, 576, 577]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "49100",
-            "AFFGEOID": "310M200US49100",
-            "GEOID": "49100",
-            "NAME": "Winona, MN",
-            "LSAD": "M2",
-            "ALAND": 1621877146,
-            "AWATER": 39812978
-          }
-        },
-        {
-          "arcs": [[578, 579, 580, 581, 582]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "146",
-            "CBSAFP": "14100",
-            "AFFGEOID": "310M200US14100",
-            "GEOID": "14100",
-            "NAME": "Bloomsburg-Berwick, PA",
-            "LSAD": "M1",
-            "ALAND": 1588566913,
-            "AWATER": 23674272
-          }
-        },
-        {
-          "arcs": [[583]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "34420",
-            "AFFGEOID": "310M200US34420",
-            "GEOID": "34420",
-            "NAME": "Mount Pleasant, TX",
-            "LSAD": "M2",
-            "ALAND": 1051677550,
-            "AWATER": 50735385
-          }
-        },
-        {
-          "arcs": [[584, 585]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "44740",
-            "AFFGEOID": "310M200US44740",
-            "GEOID": "44740",
-            "NAME": "Storm Lake, IA",
-            "LSAD": "M2",
-            "ALAND": 1488989044,
-            "AWATER": 13791664
-          }
-        },
-        {
-          "arcs": [[586, 587, 588, -273, 589]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "11140",
-            "AFFGEOID": "310M200US11140",
-            "GEOID": "11140",
-            "NAME": "Americus, GA",
-            "LSAD": "M2",
-            "ALAND": 1682460171,
-            "AWATER": 28168103
-          }
-        },
-        {
-          "arcs": [[590, 591, 592]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "17220",
-            "AFFGEOID": "310M200US17220",
-            "GEOID": "17220",
-            "NAME": "Clarksburg, WV",
-            "LSAD": "M2",
-            "ALAND": 2353000500,
-            "AWATER": 10811595
-          }
-        },
-        {
-          "arcs": [[593, -32, 594, 595]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "357",
-            "CBSAFP": "27500",
-            "AFFGEOID": "310M200US27500",
-            "GEOID": "27500",
-            "NAME": "Janesville-Beloit, WI",
-            "LSAD": "M1",
-            "ALAND": 1859887390,
-            "AWATER": 20681629
-          }
-        },
-        {
-          "arcs": [[596, 597, 598]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "277",
-            "CBSAFP": "25500",
-            "AFFGEOID": "310M200US25500",
-            "GEOID": "25500",
-            "NAME": "Harrisonburg, VA",
-            "LSAD": "M1",
-            "ALAND": 2244174568,
-            "AWATER": 11270557
-          }
-        },
-        {
-          "arcs": [[599, -329, 600]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "312",
-            "CBSAFP": "29940",
-            "AFFGEOID": "310M200US29940",
-            "GEOID": "29940",
-            "NAME": "Lawrence, KS",
-            "LSAD": "M1",
-            "ALAND": 1180720703,
-            "AWATER": 48581683
-          }
-        },
-        {
-          "arcs": [[601, 602, 603, 604, 605, 606, 607]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "404",
-            "CBSAFP": "35100",
-            "AFFGEOID": "310M200US35100",
-            "GEOID": "35100",
-            "NAME": "New Bern, NC",
-            "LSAD": "M1",
-            "ALAND": 3927063228,
-            "AWATER": 771504643
-          }
-        },
-        {
-          "arcs": [[608, 609, 610, 611]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "370",
-            "CBSAFP": "38940",
-            "AFFGEOID": "310M200US38940",
-            "GEOID": "38940",
-            "NAME": "Port St. Lucie, FL",
-            "LSAD": "M1",
-            "ALAND": 2888882297,
-            "AWATER": 843124181
-          }
-        },
-        {
-          "arcs": [[612, 613, 614, -303, 615]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "19260",
-            "AFFGEOID": "310M200US19260",
-            "GEOID": "19260",
-            "NAME": "Danville, VA",
-            "LSAD": "M2",
-            "ALAND": 2620813835,
-            "AWATER": 26395443
-          }
-        },
-        {
-          "arcs": [[616, 617, 618, 619, 620, 621, 622]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "206",
-            "CBSAFP": "11980",
-            "AFFGEOID": "310M200US11980",
-            "GEOID": "11980",
-            "NAME": "Athens, TX",
-            "LSAD": "M2",
-            "ALAND": 2262941927,
-            "AWATER": 193237889
-          }
-        },
-        
         {
           "arcs": [[1357, 1358, 1359, -1293, 1360, 1361, 1362, 1363, -239]],
           "type": "Polygon",
@@ -34010,3186 +34450,3 @@
     }
   }
 }
-         "CSAFP": "",
-            "CBSAFP": "42380",
-            "AFFGEOID": "310M200US42380",
-            "GEOID": "42380",
-            "NAME": "Sayre, PA",
-            "LSAD": "M2",
-            "ALAND": 2971750796,
-            "AWATER": 35275587
-          }
-        },
-        {
-          "arcs": [[-1007, 2214]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27180",
-            "AFFGEOID": "310M200US27180",
-            "GEOID": "27180",
-            "NAME": "Jackson, TN",
-            "LSAD": "M1",
-            "ALAND": 2870688476,
-            "AWATER": 5035253
-          }
-        },
-        {
-          "arcs": [[2215, 2216, 2217, -1872, 2218, 2219, -1636, -1716]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "106",
-            "CBSAFP": "10740",
-            "AFFGEOID": "310M200US10740",
-            "GEOID": "10740",
-            "NAME": "Albuquerque, NM",
-            "LSAD": "M1",
-            "ALAND": 24041256743,
-            "AWATER": 37921741
-          }
-        },
-        {
-          "arcs": [[-2149, 2220, -872, -141, 2221]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45980",
-            "AFFGEOID": "310M200US45980",
-            "GEOID": "45980",
-            "NAME": "Troy, AL",
-            "LSAD": "M2",
-            "ALAND": 1740741211,
-            "AWATER": 2336975
-          }
-        },
-        {
-          "arcs": [[2222, 2223, -935, 2224]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "43760",
-            "AFFGEOID": "310M200US43760",
-            "GEOID": "43760",
-            "NAME": "Sonora, CA",
-            "LSAD": "M2",
-            "ALAND": 5752116004,
-            "AWATER": 138684372
-          }
-        },
-        {
-          "arcs": [[2225, 2226, -1801, 2227, 2228]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "144",
-            "CBSAFP": "14020",
-            "AFFGEOID": "310M200US14020",
-            "GEOID": "14020",
-            "NAME": "Bloomington, IN",
-            "LSAD": "M1",
-            "ALAND": 2019733549,
-            "AWATER": 50045972
-          }
-        },
-        {
-          "arcs": [[-248, -1734, 2229]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "190",
-            "CBSAFP": "33620",
-            "AFFGEOID": "310M200US33620",
-            "GEOID": "33620",
-            "NAME": "Moberly, MO",
-            "LSAD": "M2",
-            "ALAND": 1250217889,
-            "AWATER": 13254193
-          }
-        },
-        {
-          "arcs": [[2230, 2231, 2232, 2233, 2234]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "15420",
-            "AFFGEOID": "310M200US15420",
-            "GEOID": "15420",
-            "NAME": "Burley, ID",
-            "LSAD": "M2",
-            "ALAND": 8604535339,
-            "AWATER": 53190903
-          }
-        },
-        {
-          "arcs": [[-1664, -557, 2235, -1495, -1516]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "174",
-            "CBSAFP": "42460",
-            "AFFGEOID": "310M200US42460",
-            "GEOID": "42460",
-            "NAME": "Scottsboro, AL",
-            "LSAD": "M2",
-            "ALAND": 2791663770,
-            "AWATER": 126657151
-          }
-        },
-        {
-          "arcs": [[-987, -1439, 2236]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "10220",
-            "AFFGEOID": "310M200US10220",
-            "GEOID": "10220",
-            "NAME": "Ada, OK",
-            "LSAD": "M2",
-            "ALAND": 1865879213,
-            "AWATER": 12413427
-          }
-        },
-        {
-          "arcs": [[-94, 2237]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "35820",
-            "AFFGEOID": "310M200US35820",
-            "GEOID": "35820",
-            "NAME": "North Platte, NE",
-            "LSAD": "M2",
-            "ALAND": 10343635304,
-            "AWATER": 32514480
-          }
-        },
-        {
-          "arcs": [[2238, -1296, 2239, -1139]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "300",
-            "CBSAFP": "41220",
-            "AFFGEOID": "310M200US41220",
-            "GEOID": "41220",
-            "NAME": "St. Marys, GA",
-            "LSAD": "M2",
-            "ALAND": 1588171684,
-            "AWATER": 436849667
-          }
-        },
-        {
-          "arcs": [[-1682, 2240, 2241, 2242]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "14140",
-            "AFFGEOID": "310M200US14140",
-            "GEOID": "14140",
-            "NAME": "Bluefield, WV-VA",
-            "LSAD": "M2",
-            "ALAND": 2428934069,
-            "AWATER": 7345999
-          }
-        },
-        {
-          "arcs": [[-364, 2243, -1836, 2244]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "424",
-            "CBSAFP": "37140",
-            "AFFGEOID": "310M200US37140",
-            "GEOID": "37140",
-            "NAME": "Paducah, KY-IL",
-            "LSAD": "M2",
-            "ALAND": 2708468361,
-            "AWATER": 207877231
-          }
-        },
-        {
-          "arcs": [[-1521, -1866, -1334, -81, -2053, 2245, -1179]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "515",
-            "CBSAFP": "43780",
-            "AFFGEOID": "310M200US43780",
-            "GEOID": "43780",
-            "NAME": "South Bend-Mishawaka, IN-MI",
-            "LSAD": "M1",
-            "ALAND": 2455267304,
-            "AWATER": 56251230
-          }
-        },
-        {
-          "arcs": [[2246]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "12620",
-            "AFFGEOID": "310M200US12620",
-            "GEOID": "12620",
-            "NAME": "Bangor, ME",
-            "LSAD": "M1",
-            "ALAND": 8799074164,
-            "AWATER": 413603851
-          }
-        },
-        {
-          "arcs": [[-1695, -1943, 2247, -1091, -952]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "366",
-            "CBSAFP": "24420",
-            "AFFGEOID": "310M200US24420",
-            "GEOID": "24420",
-            "NAME": "Grants Pass, OR",
-            "LSAD": "M1",
-            "ALAND": 4246697356,
-            "AWATER": 5623906
-          }
-        },
-        {
-          "arcs": [[2248, -1598, -1960, -1977, -372]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "240",
-            "CBSAFP": "21500",
-            "AFFGEOID": "310M200US21500",
-            "GEOID": "21500",
-            "NAME": "Erie, PA",
-            "LSAD": "M1",
-            "ALAND": 2069952474,
-            "AWATER": 1965847842
-          }
-        },
-        {
-          "arcs": [[-772, 2249, -2029, -2207]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "104",
-            "CBSAFP": "11220",
-            "AFFGEOID": "310M200US11220",
-            "GEOID": "11220",
-            "NAME": "Amsterdam, NY",
-            "LSAD": "M2",
-            "ALAND": 1044067737,
-            "AWATER": 18598434
-          }
-        },
-        {
-          "arcs": [[-532, 2250, -1626, -2138, -1326, 2251]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "40940",
-            "AFFGEOID": "310M200US40940",
-            "GEOID": "40940",
-            "NAME": "Safford, AZ",
-            "LSAD": "M2",
-            "ALAND": 11972305015,
-            "AWATER": 47705575
-          }
-        },
-        {
-          "arcs": [[2252, 2253, 2254, 2255, 2256, -1698, 2257]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "260",
-            "CBSAFP": "23420",
-            "AFFGEOID": "310M200US23420",
-            "GEOID": "23420",
-            "NAME": "Fresno, CA",
-            "LSAD": "M1",
-            "ALAND": 15433278958,
-            "AWATER": 135402551
-          }
-        },
-        {
-          "arcs": [[-343, 2258, -2193, 2259, -1878]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "184",
-            "CBSAFP": "41780",
-            "AFFGEOID": "310M200US41780",
-            "GEOID": "41780",
-            "NAME": "Sandusky, OH",
-            "LSAD": "M2",
-            "ALAND": 651628988,
-            "AWATER": 969639896
-          }
-        },
-        {
-          "arcs": [[-1284, 2260, -496, 2261, -1143, 2262, 2263, -568, 2264]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "288",
-            "CBSAFP": "26420",
-            "AFFGEOID": "310M200US26420",
-            "GEOID": "26420",
-            "NAME": "Houston-The Woodlands-Sugar Land, TX",
-            "LSAD": "M1",
-            "ALAND": 21395340858,
-            "AWATER": 3064071034
-          }
-        },
-        {
-          "arcs": [[2265, 2266, -2204, 2267, 2268, 2269, 2270]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "488",
-            "CBSAFP": "42220",
-            "AFFGEOID": "310M200US42220",
-            "GEOID": "42220",
-            "NAME": "Santa Rosa, CA",
-            "LSAD": "M1",
-            "ALAND": 4081401191,
-            "AWATER": 497545934
-          }
-        },
-        {
-          "arcs": [[2271, -604, 2272]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "274",
-            "CBSAFP": "47820",
-            "AFFGEOID": "310M200US47820",
-            "GEOID": "47820",
-            "NAME": "Washington, NC",
-            "LSAD": "M2",
-            "ALAND": 2143053946,
-            "AWATER": 338699480
-          }
-        },
-        {
-          "arcs": [[-228, -1595, 2273, 2274]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "294",
-            "CBSAFP": "18020",
-            "AFFGEOID": "310M200US18020",
-            "GEOID": "18020",
-            "NAME": "Columbus, IN",
-            "LSAD": "M1",
-            "ALAND": 1053850604,
-            "AWATER": 6814131
-          }
-        },
-        {
-          "arcs": [[2275]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "33500",
-            "AFFGEOID": "310M200US33500",
-            "GEOID": "33500",
-            "NAME": "Minot, ND",
-            "LSAD": "M2",
-            "ALAND": 12339227195,
-            "AWATER": 248796580
-          }
-        },
-        {
-          "arcs": [[2276, -549, 2277, -1662, -1168]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "32660",
-            "AFFGEOID": "310M200US32660",
-            "GEOID": "32660",
-            "NAME": "McMinnville, TN",
-            "LSAD": "M2",
-            "ALAND": 1120635693,
-            "AWATER": 3508325
-          }
-        },
-        {
-          "arcs": [[2278, 2279, -2092, 2280, 2281, -1401]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27220",
-            "AFFGEOID": "310M200US27220",
-            "GEOID": "27220",
-            "NAME": "Jackson, WY-ID",
-            "LSAD": "M2",
-            "ALAND": 11513645748,
-            "AWATER": 573740071
-          }
-        },
-        {
-          "arcs": [[2282, 2283, -2131, 2284, -2231, 2285, 2286, 2287]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25200",
-            "AFFGEOID": "310M200US25200",
-            "GEOID": "25200",
-            "NAME": "Hailey, ID",
-            "LSAD": "M2",
-            "ALAND": 12731890155,
-            "AWATER": 67489880
-          }
-        },
-        {
-          "arcs": [[2288, -2288, 2289, 2290, 2291]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "147",
-            "CBSAFP": "34300",
-            "AFFGEOID": "310M200US34300",
-            "GEOID": "34300",
-            "NAME": "Mountain Home, ID",
-            "LSAD": "M2",
-            "ALAND": 7963532452,
-            "AWATER": 67386793
-          }
-        },
-        {
-          "arcs": [[2292, -1998, 2293, -1857, 2294, -1746, -145]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "204",
-            "CBSAFP": "18580",
-            "AFFGEOID": "310M200US18580",
-            "GEOID": "18580",
-            "NAME": "Corpus Christi, TX",
-            "LSAD": "M1",
-            "ALAND": 4620109987,
-            "AWATER": 1599382636
-          }
-        },
-        {
-          "arcs": [[-1745, 2295, 2296, 2297]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "17700",
-            "AFFGEOID": "310M200US17700",
-            "GEOID": "17700",
-            "NAME": "Coffeyville, KS",
-            "LSAD": "M2",
-            "ALAND": 1666728644,
-            "AWATER": 20601461
-          }
-        },
-        {
-          "arcs": [[2298]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "49260",
-            "AFFGEOID": "310M200US49260",
-            "GEOID": "49260",
-            "NAME": "Woodward, OK",
-            "LSAD": "M2",
-            "ALAND": 3217817742,
-            "AWATER": 9693376
-          }
-        },
-        {
-          "arcs": [[-1620, -1229, -618, 2299]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "540",
-            "CBSAFP": "46340",
-            "AFFGEOID": "310M200US46340",
-            "GEOID": "46340",
-            "NAME": "Tyler, TX",
-            "LSAD": "M1",
-            "ALAND": 2386700344,
-            "AWATER": 73067567
-          }
-        },
-        {
-          "arcs": [[-1887, 2300]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "30580",
-            "AFFGEOID": "310M200US30580",
-            "GEOID": "30580",
-            "NAME": "Liberal, KS",
-            "LSAD": "M2",
-            "ALAND": 1655865960,
-            "AWATER": 2777350
-          }
-        },
-        {
-          "arcs": [[2301, 2302, 2303, 2304]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "318",
-            "CBSAFP": "34020",
-            "AFFGEOID": "310M200US34020",
-            "GEOID": "34020",
-            "NAME": "Morgan City, LA",
-            "LSAD": "M2",
-            "ALAND": 1438844850,
-            "AWATER": 1460448190
-          }
-        },
-        {
-          "arcs": [[[2305]], [[2306]]],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "26340",
-            "AFFGEOID": "310M200US26340",
-            "GEOID": "26340",
-            "NAME": "Houghton, MI",
-            "LSAD": "M2",
-            "ALAND": 4012466421,
-            "AWATER": 15328958860
-          }
-        },
-        {
-          "arcs": [[2307, -1460, 2308, 2309]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "500",
-            "CBSAFP": "14740",
-            "AFFGEOID": "310M200US14740",
-            "GEOID": "14740",
-            "NAME": "Bremerton-Silverdale, WA",
-            "LSAD": "M1",
-            "ALAND": 1022895431,
-            "AWATER": 442827362
-          }
-        },
-        {
-          "arcs": [[-2081, 2310, 2311]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "21540",
-            "AFFGEOID": "310M200US21540",
-            "GEOID": "21540",
-            "NAME": "Escanaba, MI",
-            "LSAD": "M2",
-            "ALAND": 3033127424,
-            "AWATER": 2124385259
-          }
-        },
-        {
-          "arcs": [[-632, 2312, 2313, 2314]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "29700",
-            "AFFGEOID": "310M200US29700",
-            "GEOID": "29700",
-            "NAME": "Laredo, TX",
-            "LSAD": "M1",
-            "ALAND": 8706200257,
-            "AWATER": 36536159
-          }
-        },
-        {
-          "arcs": [[2315, -1602, 2316, 2317]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "350",
-            "CBSAFP": "12680",
-            "AFFGEOID": "310M200US12680",
-            "GEOID": "12680",
-            "NAME": "Bardstown, KY",
-            "LSAD": "M2",
-            "ALAND": 1081354529,
-            "AWATER": 16997328
-          }
-        },
-        {
-          "arcs": [[-2314, 2318, -1785, 2319]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "49820",
-            "AFFGEOID": "310M200US49820",
-            "GEOID": "49820",
-            "NAME": "Zapata, TX",
-            "LSAD": "M2",
-            "ALAND": 2585876159,
-            "AWATER": 154370982
-          }
-        },
-        {
-          "arcs": [[2320, -210, -1689]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "41760",
-            "AFFGEOID": "310M200US41760",
-            "GEOID": "41760",
-            "NAME": "Sandpoint, ID",
-            "LSAD": "M2",
-            "ALAND": 4494094339,
-            "AWATER": 478953307
-          }
-        },
-        {
-          "arcs": [[-1973, 2321]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "11060",
-            "AFFGEOID": "310M200US11060",
-            "GEOID": "11060",
-            "NAME": "Altus, OK",
-            "LSAD": "M2",
-            "ALAND": 2078855933,
-            "AWATER": 4114419
-          }
-        },
-        {
-          "arcs": [[2322, -2196]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "384",
-            "CBSAFP": "12820",
-            "AFFGEOID": "310M200US12820",
-            "GEOID": "12820",
-            "NAME": "Bastrop, LA",
-            "LSAD": "M2",
-            "ALAND": 2058870191,
-            "AWATER": 28878805
-          }
-        },
-        {
-          "arcs": [[-892, 2323, 2324, -1640, 2325]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "468",
-            "CBSAFP": "48980",
-            "AFFGEOID": "310M200US48980",
-            "GEOID": "48980",
-            "NAME": "Wilson, NC",
-            "LSAD": "M2",
-            "ALAND": 953483115,
-            "AWATER": 14477233
-          }
-        },
-        {
-          "arcs": [[-973, 2326, -355]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "238",
-            "CBSAFP": "21340",
-            "AFFGEOID": "310M200US21340",
-            "GEOID": "21340",
-            "NAME": "El Paso, TX",
-            "LSAD": "M1",
-            "ALAND": 14461646726,
-            "AWATER": 7634538
-          }
-        },
-        {
-          "arcs": [[-2179, 2327, 2328, -731, 2329]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "545",
-            "CBSAFP": "47260",
-            "AFFGEOID": "310M200US47260",
-            "GEOID": "47260",
-            "NAME": "Virginia Beach-Norfolk-Newport News, VA-NC",
-            "LSAD": "M1",
-            "ALAND": 6972345097,
-            "AWATER": 3214108085
-          }
-        },
-        {
-          "arcs": [[-1256, 2330, 2331, 2332, 2333]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "312",
-            "CBSAFP": "41140",
-            "AFFGEOID": "310M200US41140",
-            "GEOID": "41140",
-            "NAME": "St. Joseph, MO-KS",
-            "LSAD": "M1",
-            "ALAND": 4287704814,
-            "AWATER": 50998239
-          }
-        },
-        {
-          "arcs": [[-1015, 2334, -1820, -308, 2335, -1605, -1835]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "268",
-            "CBSAFP": "49180",
-            "AFFGEOID": "310M200US49180",
-            "GEOID": "49180",
-            "NAME": "Winston-Salem, NC",
-            "LSAD": "M1",
-            "ALAND": 5201851143,
-            "AWATER": 80932198
-          }
-        },
-        {
-          "arcs": [
-            [[2336]],
-            [
-              [
-                -214, -942, -1548, -1578, 2337, 2338, -804, -1814, -1022, -1813,
-                2339, -626, 2340
-              ]
-            ]
-          ],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "408",
-            "CBSAFP": "35620",
-            "AFFGEOID": "310M200US35620",
-            "GEOID": "35620",
-            "NAME": "New York-Newark-Jersey City, NY-NJ-PA",
-            "LSAD": "M1",
-            "ALAND": 21478408908,
-            "AWATER": 6689374328
-          }
-        },
-        {
-          "arcs": [[-1144, -177, 2341, 2342, 2343, -908, 2344]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "41700",
-            "AFFGEOID": "310M200US41700",
-            "GEOID": "41700",
-            "NAME": "San Antonio-New Braunfels, TX",
-            "LSAD": "M1",
-            "ALAND": 18939886213,
-            "AWATER": 150518692
-          }
-        },
-        {
-          "arcs": [[-1585, 2345, 2346, 2347]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "396",
-            "CBSAFP": "23860",
-            "AFFGEOID": "310M200US23860",
-            "GEOID": "23860",
-            "NAME": "Georgetown, SC",
-            "LSAD": "M2",
-            "ALAND": 2107094125,
-            "AWATER": 572624603
-          }
-        },
-        {
-          "arcs": [[-620, -1234, 2348]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "37300",
-            "AFFGEOID": "310M200US37300",
-            "GEOID": "37300",
-            "NAME": "Palestine, TX",
-            "LSAD": "M2",
-            "ALAND": 2752130046,
-            "AWATER": 39879877
-          }
-        },
-        {
-          "arcs": [[2349, 2350, 2351, 2352, 2353]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "42020",
-            "AFFGEOID": "310M200US42020",
-            "GEOID": "42020",
-            "NAME": "San Luis Obispo-Paso Robles-Arroyo Grande, CA",
-            "LSAD": "M1",
-            "ALAND": 8548549787,
-            "AWATER": 815580311
-          }
-        },
-        {
-          "arcs": [[2354, 2355, -723, 2356, -1535, -314, 2357, 2358]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "490",
-            "CBSAFP": "41980",
-            "AFFGEOID": "310M200US41980",
-            "GEOID": "41980",
-            "NAME": "San Juan-Carolina-Caguas, PR",
-            "LSAD": "M1",
-            "ALAND": 3724178379,
-            "AWATER": 1458507282
-          }
-        },
-        {
-          "arcs": [
-            [[2359, 2360]],
-            [[-1254, 2361, 2362]],
-            [[2363]],
-            [[2364]],
-            [[2365]]
-          ],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "28580",
-            "AFFGEOID": "310M200US28580",
-            "GEOID": "28580",
-            "NAME": "Key West, FL",
-            "LSAD": "M2",
-            "ALAND": 2546040739,
-            "AWATER": 7133347242
-          }
-        },
-        {
-          "arcs": [[2366]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "20260",
-            "AFFGEOID": "310M200US20260",
-            "GEOID": "20260",
-            "NAME": "Duluth, MN-WI",
-            "LSAD": "M1",
-            "ALAND": 21789775318,
-            "AWATER": 2075554135
-          }
-        },
-        {
-          "arcs": [
-            [2367, 2368, -1212, 2369, -407, 2370, 2371, 2372, -1554, 2373]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "456",
-            "CBSAFP": "39900",
-            "AFFGEOID": "310M200US39900",
-            "GEOID": "39900",
-            "NAME": "Reno, NV",
-            "LSAD": "M1",
-            "ALAND": 17004051224,
-            "AWATER": 623033216
-          }
-        },
-        {
-          "arcs": [[-1766, 2374, -1208, -1356]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45520",
-            "AFFGEOID": "310M200US45520",
-            "GEOID": "45520",
-            "NAME": "The Dalles, OR",
-            "LSAD": "M2",
-            "ALAND": 6168179681,
-            "AWATER": 35948263
-          }
-        },
-        {
-          "arcs": [[2375, -2368, 2376, 2377]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "472",
-            "CBSAFP": "46020",
-            "AFFGEOID": "310M200US46020",
-            "GEOID": "46020",
-            "NAME": "Truckee-Grass Valley, CA",
-            "LSAD": "M2",
-            "ALAND": 2480638607,
-            "AWATER": 41513172
-          }
-        },
-        {
-          "arcs": [[2378, -114, -1885]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "474",
-            "CBSAFP": "13020",
-            "AFFGEOID": "310M200US13020",
-            "GEOID": "13020",
-            "NAME": "Bay City, MI",
-            "LSAD": "M1",
-            "ALAND": 1145557660,
-            "AWATER": 487987306
-          }
-        },
-        {
-          "arcs": [[-1043, 2379, 2380, -1060, 2381]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "35060",
-            "AFFGEOID": "310M200US35060",
-            "GEOID": "35060",
-            "NAME": "Natchitoches, LA",
-            "LSAD": "M2",
-            "ALAND": 3243341073,
-            "AWATER": 121033892
-          }
-        },
-        {
-          "arcs": [[-1855, 2382, -569, -2264, 2383]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "288",
-            "CBSAFP": "13060",
-            "AFFGEOID": "310M200US13060",
-            "GEOID": "13060",
-            "NAME": "Bay City, TX",
-            "LSAD": "M2",
-            "ALAND": 2830586533,
-            "AWATER": 1345793612
-          }
-        },
-        {
-          "arcs": [[-936, 2384, 2385, -2258, -1697]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "382",
-            "CBSAFP": "32900",
-            "AFFGEOID": "310M200US32900",
-            "GEOID": "32900",
-            "NAME": "Merced, CA",
-            "LSAD": "M1",
-            "ALAND": 5011540709,
-            "AWATER": 112771056
-          }
-        },
-        {
-          "arcs": [[-1634, -458, 2386]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "29660",
-            "AFFGEOID": "310M200US29660",
-            "GEOID": "29660",
-            "NAME": "Laramie, WY",
-            "LSAD": "M2",
-            "ALAND": 11070466383,
-            "AWATER": 89161368
-          }
-        },
-        {
-          "arcs": [[2387, 2388, 2389, -2255]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "546",
-            "CBSAFP": "47300",
-            "AFFGEOID": "310M200US47300",
-            "GEOID": "47300",
-            "NAME": "Visalia-Porterville, CA",
-            "LSAD": "M1",
-            "ALAND": 12494776875,
-            "AWATER": 37391591
-          }
-        },
-        {
-          "arcs": [[2390, -2136, -2102, -976, -756]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "276",
-            "CBSAFP": "23900",
-            "AFFGEOID": "310M200US23900",
-            "GEOID": "23900",
-            "NAME": "Gettysburg, PA",
-            "LSAD": "M1",
-            "ALAND": 1343400048,
-            "AWATER": 7883930
-          }
-        },
-        {
-          "arcs": [[2391, -782, 2392, -1970, 2393]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "482",
-            "CBSAFP": "39340",
-            "AFFGEOID": "310M200US39340",
-            "GEOID": "39340",
-            "NAME": "Provo-Orem, UT",
-            "LSAD": "M1",
-            "ALAND": 13973702153,
-            "AWATER": 400847890
-          }
-        },
-        {
-          "arcs": [[-687, -1098, -1895, 2394, -1541, -696, 2395]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "36100",
-            "AFFGEOID": "310M200US36100",
-            "GEOID": "36100",
-            "NAME": "Ocala, FL",
-            "LSAD": "M1",
-            "ALAND": 4112985503,
-            "AWATER": 193293405
-          }
-        },
-        {
-          "arcs": [[-1500, 2396]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "35020",
-            "AFFGEOID": "310M200US35020",
-            "GEOID": "35020",
-            "NAME": "Natchez, MS-LA",
-            "LSAD": "M2",
-            "ALAND": 3002640391,
-            "AWATER": 195603634
-          }
-        },
-        {
-          "arcs": [[-2260, -2192, -1445, -1492, -47, -2006, -1879]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "184",
-            "CBSAFP": "35940",
-            "AFFGEOID": "310M200US35940",
-            "GEOID": "35940",
-            "NAME": "Norwalk, OH",
-            "LSAD": "M2",
-            "ALAND": 1272965337,
-            "AWATER": 8615925
-          }
-        },
-        {
-          "arcs": [[-184, 2397, -1691, 2398, 2399, -1486, 2400, -1839, 2401]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "446",
-            "CBSAFP": "39420",
-            "AFFGEOID": "310M200US39420",
-            "GEOID": "39420",
-            "NAME": "Pullman, WA",
-            "LSAD": "M2",
-            "ALAND": 5591999422,
-            "AWATER": 47939386
-          }
-        },
-        {
-          "arcs": [[2402, -2310, 2403, 2404, -896]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "500",
-            "CBSAFP": "43220",
-            "AFFGEOID": "310M200US43220",
-            "GEOID": "43220",
-            "NAME": "Shelton, WA",
-            "LSAD": "M2",
-            "ALAND": 2484997453,
-            "AWATER": 237129431
-          }
-        },
-        {
-          "arcs": [[2405, 2406]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "33540",
-            "AFFGEOID": "310M200US33540",
-            "GEOID": "33540",
-            "NAME": "Missoula, MT",
-            "LSAD": "M1",
-            "ALAND": 6715988454,
-            "AWATER": 64467912
-          }
-        },
-        {
-          "arcs": [[2407, -613, -1819, 2408, 2409, 2410]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "40220",
-            "AFFGEOID": "310M200US40220",
-            "GEOID": "40220",
-            "NAME": "Roanoke, VA",
-            "LSAD": "M1",
-            "ALAND": 4839992437,
-            "AWATER": 72598010
-          }
-        },
-        {
-          "arcs": [[-2126, -24, 2411, -1198, -1927, 2412]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "556",
-            "CBSAFP": "48620",
-            "AFFGEOID": "310M200US48620",
-            "GEOID": "48620",
-            "NAME": "Wichita, KS",
-            "LSAD": "M1",
-            "ALAND": 12981364606,
-            "AWATER": 92855414
-          }
-        },
-        {
-          "arcs": [[-831, -720, -1917, 2413, -661, -1693, 2414]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "21660",
-            "AFFGEOID": "310M200US21660",
-            "GEOID": "21660",
-            "NAME": "Eugene, OR",
-            "LSAD": "M1",
-            "ALAND": 11792794737,
-            "AWATER": 436681302
-          }
-        },
-        {
-          "arcs": [
-            [-2008, -2002, 2415, -650, -1224, 2416, -1081, 2417, -1366, 2418]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "178",
-            "CBSAFP": "17140",
-            "AFFGEOID": "310M200US17140",
-            "GEOID": "17140",
-            "NAME": "Cincinnati, OH-KY-IN",
-            "LSAD": "M1",
-            "ALAND": 10788684057,
-            "AWATER": 192334753
-          }
-        },
-        {
-          "arcs": [[2419, -338, -265, 2420, -1129, 2421, -119, -1050]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "464",
-            "CBSAFP": "40380",
-            "AFFGEOID": "310M200US40380",
-            "GEOID": "40380",
-            "NAME": "Rochester, NY",
-            "LSAD": "M1",
-            "ALAND": 8459597611,
-            "AWATER": 5126899048
-          }
-        },
-        {
-          "arcs": [[2422, 2423, 2424, -1843, 2425]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "48300",
-            "AFFGEOID": "310M200US48300",
-            "GEOID": "48300",
-            "NAME": "Wenatchee, WA",
-            "LSAD": "M1",
-            "ALAND": 12276108825,
-            "AWATER": 266090154
-          }
-        },
-        {
-          "arcs": [[[2426]], [[2427]], [[2428]], [[2429]]],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27980",
-            "AFFGEOID": "310M200US27980",
-            "GEOID": "27980",
-            "NAME": "Kahului-Wailuku-Lahaina, HI",
-            "LSAD": "M1",
-            "ALAND": 3039416740,
-            "AWATER": 3309063132
-          }
-        },
-        {
-          "arcs": [[2430, 2431, -1378]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "12300",
-            "AFFGEOID": "310M200US12300",
-            "GEOID": "12300",
-            "NAME": "Augusta-Waterville, ME",
-            "LSAD": "M2",
-            "ALAND": 2246806175,
-            "AWATER": 216724439
-          }
-        },
-        {
-          "arcs": [[2432, 2433, 2434, 2435, 2436, -1945]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "185",
-            "CBSAFP": "26940",
-            "AFFGEOID": "310M200US26940",
-            "GEOID": "26940",
-            "NAME": "Indianola, MS",
-            "LSAD": "M2",
-            "ALAND": 1807175369,
-            "AWATER": 23758961
-          }
-        },
-        {
-          "arcs": [[-2209, 2437, -1123, 2438, 2439, 2440]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "454",
-            "CBSAFP": "39780",
-            "AFFGEOID": "310M200US39780",
-            "GEOID": "39780",
-            "NAME": "Red Bluff, CA",
-            "LSAD": "M2",
-            "ALAND": 7639716445,
-            "AWATER": 32276063
-          }
-        },
-        {
-          "arcs": [[2441, 2442, 2443, 2444, -2372]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "21980",
-            "AFFGEOID": "310M200US21980",
-            "GEOID": "21980",
-            "NAME": "Fallon, NV",
-            "LSAD": "M2",
-            "ALAND": 12770148576,
-            "AWATER": 242405502
-          }
-        },
-        {
-          "arcs": [[-1430, -1456, 2445, 2446, -680, -368, 2447]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "170",
-            "CBSAFP": "26580",
-            "AFFGEOID": "310M200US26580",
-            "GEOID": "26580",
-            "NAME": "Huntington-Ashland, WV-KY-OH",
-            "LSAD": "M1",
-            "ALAND": 6546101845,
-            "AWATER": 91680146
-          }
-        },
-        {
-          "arcs": [[2448, 2449, -1328, -2140, 2450]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "49740",
-            "AFFGEOID": "310M200US49740",
-            "GEOID": "49740",
-            "NAME": "Yuma, AZ",
-            "LSAD": "M1",
-            "ALAND": 14281191792,
-            "AWATER": 13171316
-          }
-        },
-        {
-          "arcs": [[2451, -2297, 2452, 2453]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "538",
-            "CBSAFP": "12780",
-            "AFFGEOID": "310M200US12780",
-            "GEOID": "12780",
-            "NAME": "Bartlesville, OK",
-            "LSAD": "M2",
-            "ALAND": 1076019506,
-            "AWATER": 22829398
-          }
-        },
-        {
-          "arcs": [[2454, -2333, 2455, 2456]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "312",
-            "CBSAFP": "11860",
-            "AFFGEOID": "310M200US11860",
-            "GEOID": "11860",
-            "NAME": "Atchison, KS",
-            "LSAD": "M2",
-            "ALAND": 1116730109,
-            "AWATER": 6857567
-          }
-        },
-        {
-          "arcs": [[-1711, 2457]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "48220",
-            "AFFGEOID": "310M200US48220",
-            "GEOID": "48220",
-            "NAME": "Weatherford, OK",
-            "LSAD": "M2",
-            "ALAND": 2561032754,
-            "AWATER": 34321688
-          }
-        },
-        {
-          "arcs": [[2458, -2014, -222, 2459, 2460, 2461]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "19500",
-            "AFFGEOID": "310M200US19500",
-            "GEOID": "19500",
-            "NAME": "Decatur, IL",
-            "LSAD": "M1",
-            "ALAND": 1503973502,
-            "AWATER": 13409564
-          }
-        },
-        {
-          "arcs": [[-2070, 2462, -218, -1685]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "176",
-            "CBSAFP": "28100",
-            "AFFGEOID": "310M200US28100",
-            "GEOID": "28100",
-            "NAME": "Kankakee, IL",
-            "LSAD": "M1",
-            "ALAND": 1752310524,
-            "AWATER": 12413735
-          }
-        },
-        {
-          "arcs": [[2463, -591, 2464]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "390",
-            "CBSAFP": "21900",
-            "AFFGEOID": "310M200US21900",
-            "GEOID": "21900",
-            "NAME": "Fairmont, WV",
-            "LSAD": "M2",
-            "ALAND": 799642465,
-            "AWATER": 7186184
-          }
-        },
-        {
-          "arcs": [[-1769, -1020, 2465, -1318, -1752]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "43100",
-            "AFFGEOID": "310M200US43100",
-            "GEOID": "43100",
-            "NAME": "Sheboygan, WI",
-            "LSAD": "M1",
-            "ALAND": 1324200980,
-            "AWATER": 1968279272
-          }
-        },
-        {
-          "arcs": [[-1192, 2466, -735, -2049, -492, 2467, -1800, -1476, 2468]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "216",
-            "CBSAFP": "19740",
-            "AFFGEOID": "310M200US19740",
-            "GEOID": "19740",
-            "NAME": "Denver-Aurora-Lakewood, CO",
-            "LSAD": "M1",
-            "ALAND": 21615642000,
-            "AWATER": 147293259
-          }
-        },
-        {
-          "arcs": [[2469, 2470, -2347, 2471]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "16700",
-            "AFFGEOID": "310M200US16700",
-            "GEOID": "16700",
-            "NAME": "Charleston-North Charleston, SC",
-            "LSAD": "M1",
-            "ALAND": 6703756813,
-            "AWATER": 1488520869
-          }
-        },
-        {
-          "arcs": [[-810, 2472, -2433, -1944, 2473]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "185",
-            "CBSAFP": "17380",
-            "AFFGEOID": "310M200US17380",
-            "GEOID": "17380",
-            "NAME": "Cleveland, MS",
-            "LSAD": "M2",
-            "ALAND": 2270314787,
-            "AWATER": 75742137
-          }
-        },
-        {
-          "arcs": [
-            [-1794, -1498, 2474, -1730, -2176, -2146, -817, 2475, -1404, 2476]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "142",
-            "CBSAFP": "13820",
-            "AFFGEOID": "310M200US13820",
-            "GEOID": "13820",
-            "NAME": "Birmingham-Hoover, AL",
-            "LSAD": "M1",
-            "ALAND": 13675107149,
-            "AWATER": 232538326
-          }
-        },
-        {
-          "arcs": [[2477]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "48780",
-            "AFFGEOID": "310M200US48780",
-            "GEOID": "48780",
-            "NAME": "Williston, ND",
-            "LSAD": "M2",
-            "ALAND": 5381129899,
-            "AWATER": 182522303
-          }
-        },
-        {
-          "arcs": [[-1924, -353, 2478, 2479]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "276",
-            "CBSAFP": "30140",
-            "AFFGEOID": "310M200US30140",
-            "GEOID": "30140",
-            "NAME": "Lebanon, PA",
-            "LSAD": "M1",
-            "ALAND": 937138345,
-            "AWATER": 1727921
-          }
-        },
-        {
-          "arcs": [
-            [2480, -1709, 2481, -1920, 2482, 2483, -1950, 2484, 2485, -808]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "368",
-            "CBSAFP": "32820",
-            "AFFGEOID": "310M200US32820",
-            "GEOID": "32820",
-            "NAME": "Memphis, TN-MS-AR",
-            "LSAD": "M1",
-            "ALAND": 12910527030,
-            "AWATER": 319234186
-          }
-        },
-        {
-          "arcs": [[2486, -2152, 2487, -1708, 2488, -924]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "525",
-            "CBSAFP": "18780",
-            "AFFGEOID": "310M200US18780",
-            "GEOID": "18780",
-            "NAME": "Craig, CO",
-            "LSAD": "M2",
-            "ALAND": 12284800386,
-            "AWATER": 19803413
-          }
-        },
-        {
-          "arcs": [[2489, -1964, -1978, -1906]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "220",
-            "CBSAFP": "11460",
-            "AFFGEOID": "310M200US11460",
-            "GEOID": "11460",
-            "NAME": "Ann Arbor, MI",
-            "LSAD": "M1",
-            "ALAND": 1828433678,
-            "AWATER": 42623578
-          }
-        },
-        {
-          "arcs": [[2490, -534, 2491, 2492, 2493]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "22380",
-            "AFFGEOID": "310M200US22380",
-            "GEOID": "22380",
-            "NAME": "Flagstaff, AZ",
-            "LSAD": "M1",
-            "ALAND": 48222080889,
-            "AWATER": 110096951
-          }
-        },
-        {
-          "arcs": [[-1483, 2494, -1829, 2495, 2496]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25060",
-            "AFFGEOID": "310M200US25060",
-            "GEOID": "25060",
-            "NAME": "Gulfport-Biloxi-Pascagoula, MS",
-            "LSAD": "M1",
-            "ALAND": 4586197020,
-            "AWATER": 2098192459
-          }
-        },
-        {
-          "arcs": [[2497, 2498, 2499, 2500]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "31580",
-            "AFFGEOID": "310M200US31580",
-            "GEOID": "31580",
-            "NAME": "Madisonville, KY",
-            "LSAD": "M2",
-            "ALAND": 1403763235,
-            "AWATER": 32165560
-          }
-        },
-        {
-          "arcs": [[-694, 2501, 2502, 2503]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "24300",
-            "AFFGEOID": "310M200US24300",
-            "GEOID": "24300",
-            "NAME": "Grand Junction, CO",
-            "LSAD": "M1",
-            "ALAND": 8621965147,
-            "AWATER": 31428362
-          }
-        },
-        {
-          "arcs": [[2504, -434, -2047, 2505, -441, -1337]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "524",
-            "CBSAFP": "20180",
-            "AFFGEOID": "310M200US20180",
-            "GEOID": "20180",
-            "NAME": "DuBois, PA",
-            "LSAD": "M2",
-            "ALAND": 2964817439,
-            "AWATER": 23932649
-          }
-        },
-        {
-          "arcs": [[-2129, -2072, -1239, -2167]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "148",
-            "CBSAFP": "18180",
-            "AFFGEOID": "310M200US18180",
-            "GEOID": "18180",
-            "NAME": "Concord, NH",
-            "LSAD": "M2",
-            "ALAND": 2419397118,
-            "AWATER": 57788836
-          }
-        },
-        {
-          "arcs": [[-1121, 2506, -2378, 2507, 2508]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "472",
-            "CBSAFP": "49700",
-            "AFFGEOID": "310M200US49700",
-            "GEOID": "49700",
-            "NAME": "Yuba City, CA",
-            "LSAD": "M1",
-            "ALAND": 3197220091,
-            "AWATER": 46732645
-          }
-        },
-        {
-          "arcs": [[2509, -1, 2510, 2511, -884, -596, -2115, -359, 2512, -947]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "357",
-            "CBSAFP": "31540",
-            "AFFGEOID": "310M200US31540",
-            "GEOID": "31540",
-            "NAME": "Madison, WI",
-            "LSAD": "M1",
-            "ALAND": 8571132545,
-            "AWATER": 200856004
-          }
-        },
-        {
-          "arcs": [[2513]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "34260",
-            "AFFGEOID": "310M200US34260",
-            "GEOID": "34260",
-            "NAME": "Mountain Home, AR",
-            "LSAD": "M2",
-            "ALAND": 1435587425,
-            "AWATER": 84022334
-          }
-        },
-        {
-          "arcs": [[2514, -2389, 2515, 2516, 2517, -1273, 2518, -2352]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "12540",
-            "AFFGEOID": "310M200US12540",
-            "GEOID": "12540",
-            "NAME": "Bakersfield, CA",
-            "LSAD": "M1",
-            "ALAND": 21061723516,
-            "AWATER": 79488735
-          }
-        },
-        {
-          "arcs": [[2519, 2520, -2217]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "106",
-            "CBSAFP": "31060",
-            "AFFGEOID": "310M200US31060",
-            "GEOID": "31060",
-            "NAME": "Los Alamos, NM",
-            "LSAD": "M2",
-            "ALAND": 282741305,
-            "AWATER": 229939
-          }
-        },
-        {
-          "arcs": [[-297, 2521]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "352",
-            "CBSAFP": "30220",
-            "AFFGEOID": "310M200US30220",
-            "GEOID": "30220",
-            "NAME": "Levelland, TX",
-            "LSAD": "M2",
-            "ALAND": 2352723913,
-            "AWATER": 446119
-          }
-        },
-        {
-          "arcs": [[-722, -1330, -1536, -2357]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "434",
-            "CBSAFP": "17620",
-            "AFFGEOID": "310M200US17620",
-            "GEOID": "17620",
-            "NAME": "Coamo, PR",
-            "LSAD": "M2",
-            "ALAND": 202052316,
-            "AWATER": 38061
-          }
-        },
-        {
-          "arcs": [[2522, 2523, -1374, -1718]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "378",
-            "CBSAFP": "39860",
-            "AFFGEOID": "310M200US39860",
-            "GEOID": "39860",
-            "NAME": "Red Wing, MN",
-            "LSAD": "M2",
-            "ALAND": 1960200377,
-            "AWATER": 61025248
-          }
-        },
-        {
-          "arcs": [[-1173, 2524, -2182, 2525]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "400",
-            "CBSAFP": "29980",
-            "AFFGEOID": "310M200US29980",
-            "GEOID": "29980",
-            "NAME": "Lawrenceburg, TN",
-            "LSAD": "M2",
-            "ALAND": 1598356717,
-            "AWATER": 2228109
-          }
-        },
-        {
-          "arcs": [[2526, -1654]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "150",
-            "CBSAFP": "23980",
-            "AFFGEOID": "310M200US23980",
-            "GEOID": "23980",
-            "NAME": "Glasgow, KY",
-            "LSAD": "M2",
-            "ALAND": 2012906596,
-            "AWATER": 36263738
-          }
-        },
-        {
-          "arcs": [[2527, -2318, 2528, -1762, 2529]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "350",
-            "CBSAFP": "21060",
-            "AFFGEOID": "310M200US21060",
-            "GEOID": "21060",
-            "NAME": "Elizabethtown-Fort Knox, KY",
-            "LSAD": "M1",
-            "ALAND": 3082732343,
-            "AWATER": 72564897
-          }
-        },
-        {
-          "arcs": [[2530, -627, -2340, -1812, -350, -1923]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "408",
-            "CBSAFP": "10900",
-            "AFFGEOID": "310M200US10900",
-            "GEOID": "10900",
-            "NAME": "Allentown-Bethlehem-Easton, PA-NJ",
-            "LSAD": "M1",
-            "ALAND": 3763879943,
-            "AWATER": 58581593
-          }
-        },
-        {
-          "arcs": [[-444, 2531, -2017, 2532, -1028]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "306",
-            "CBSAFP": "43740",
-            "AFFGEOID": "310M200US43740",
-            "GEOID": "43740",
-            "NAME": "Somerset, PA",
-            "LSAD": "M2",
-            "ALAND": 2782597179,
-            "AWATER": 17002814
-          }
-        },
-        {
-          "arcs": [[-1188, -1136, -825, 2533]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27700",
-            "AFFGEOID": "310M200US27700",
-            "GEOID": "27700",
-            "NAME": "Jesup, GA",
-            "LSAD": "M2",
-            "ALAND": 1662237980,
-            "AWATER": 18136147
-          }
-        },
-        {
-          "arcs": [[-2492, -533, -2252, -1325, 2534]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "37740",
-            "AFFGEOID": "310M200US37740",
-            "GEOID": "37740",
-            "NAME": "Payson, AZ",
-            "LSAD": "M2",
-            "ALAND": 12323041468,
-            "AWATER": 97111975
-          }
-        },
-        {
-          "arcs": [[2535]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "41660",
-            "AFFGEOID": "310M200US41660",
-            "GEOID": "41660",
-            "NAME": "San Angelo, TX",
-            "LSAD": "M1",
-            "ALAND": 6665406266,
-            "AWATER": 48281360
-          }
-        },
-        {
-          "arcs": [[-740, -38, -1909, 2536, -507, -1865]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "310",
-            "CBSAFP": "12980",
-            "AFFGEOID": "310M200US12980",
-            "GEOID": "12980",
-            "NAME": "Battle Creek, MI",
-            "LSAD": "M1",
-            "ALAND": 1829249871,
-            "AWATER": 31275675
-          }
-        },
-        {
-          "arcs": [[-2506, -2046, 2537, 2538, -442]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "11020",
-            "AFFGEOID": "310M200US11020",
-            "GEOID": "11020",
-            "NAME": "Altoona, PA",
-            "LSAD": "M1",
-            "ALAND": 1361815246,
-            "AWATER": 3285511
-          }
-        },
-        {
-          "arcs": [[-1267, 2539, 2540, 2541]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "206",
-            "CBSAFP": "20460",
-            "AFFGEOID": "310M200US20460",
-            "GEOID": "20460",
-            "NAME": "Durant, OK",
-            "LSAD": "M2",
-            "ALAND": 2342539526,
-            "AWATER": 102255715
-          }
-        },
-        {
-          "arcs": [[2542, -2274, -1594, 2543, -1802, -2227]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "294",
-            "CBSAFP": "42980",
-            "AFFGEOID": "310M200US42980",
-            "GEOID": "42980",
-            "NAME": "Seymour, IN",
-            "LSAD": "M2",
-            "ALAND": 1319119292,
-            "AWATER": 11910481
-          }
-        },
-        {
-          "arcs": [[-1913, -259, 2544]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "19220",
-            "AFFGEOID": "310M200US19220",
-            "GEOID": "19220",
-            "NAME": "Danville, KY",
-            "LSAD": "M2",
-            "ALAND": 1329044507,
-            "AWATER": 15775952
-          }
-        },
-        {
-          "arcs": [[-1719, -1377, -502, -1258, 2545]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "36940",
-            "AFFGEOID": "310M200US36940",
-            "GEOID": "36940",
-            "NAME": "Owatonna, MN",
-            "LSAD": "M2",
-            "ALAND": 1112775709,
-            "AWATER": 6976791
-          }
-        },
-        {
-          "arcs": [[-1216, 2546, -1961]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "14620",
-            "AFFGEOID": "310M200US14620",
-            "GEOID": "14620",
-            "NAME": "Bradford, PA",
-            "LSAD": "M2",
-            "ALAND": 2536106035,
-            "AWATER": 13010718
-          }
-        },
-        {
-          "arcs": [[-732, -2329, 2547]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "545",
-            "CBSAFP": "28620",
-            "AFFGEOID": "310M200US28620",
-            "GEOID": "28620",
-            "NAME": "Kill Devil Hills, NC",
-            "LSAD": "M2",
-            "ALAND": 2000239990,
-            "AWATER": 3585799713
-          }
-        },
-        {
-          "arcs": [[-1402, -2282, 2548, -2132, -2284, 2549]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "292",
-            "CBSAFP": "26820",
-            "AFFGEOID": "310M200US26820",
-            "GEOID": "26820",
-            "NAME": "Idaho Falls, ID",
-            "LSAD": "M1",
-            "ALAND": 13457009784,
-            "AWATER": 126025981
-          }
-        },
-        {
-          "arcs": [[2550, -1841, 2551, -1437, 2552]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25840",
-            "AFFGEOID": "310M200US25840",
-            "GEOID": "25840",
-            "NAME": "Hermiston-Pendleton, OR",
-            "LSAD": "M2",
-            "ALAND": 13589974524,
-            "AWATER": 84972099
-          }
-        },
-        {
-          "arcs": [[-135, -1739, -2071, -1688, 2553, -1263]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "176",
-            "CBSAFP": "36860",
-            "AFFGEOID": "310M200US36860",
-            "GEOID": "36860",
-            "NAME": "Ottawa-Peru, IL",
-            "LSAD": "M2",
-            "ALAND": 5605589861,
-            "AWATER": 76514728
-          }
-        },
-        {
-          "arcs": [[-1379, -2432, 2554, -2075, 2555]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "438",
-            "CBSAFP": "38860",
-            "AFFGEOID": "310M200US38860",
-            "GEOID": "38860",
-            "NAME": "Portland-South Portland, ME",
-            "LSAD": "M1",
-            "ALAND": 5388280775,
-            "AWATER": 2011849387
-          }
-        },
-        {
-          "arcs": [
-            [
-              2556, -2508, -2377, -2374, -1557, -2087, 2557, -1235, 2558, 2559,
-              -2202, 2560
-            ]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "472",
-            "CBSAFP": "40900",
-            "AFFGEOID": "310M200US40900",
-            "GEOID": "40900",
-            "NAME": "Sacramento--Roseville--Arden-Arcade, CA",
-            "LSAD": "M1",
-            "ALAND": 13195191548,
-            "AWATER": 548573735
-          }
-        },
-        {
-          "arcs": [
-            [2561, -1803, -2544, -1593, -2065, 2562, -1603, -2316, -2528]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "350",
-            "CBSAFP": "31140",
-            "AFFGEOID": "310M200US31140",
-            "GEOID": "31140",
-            "NAME": "Louisville/Jefferson County, KY-IN",
-            "LSAD": "M1",
-            "ALAND": 9268040329,
-            "AWATER": 160362235
-          }
-        },
-        {
-          "arcs": [[2563]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "11260",
-            "AFFGEOID": "310M200US11260",
-            "GEOID": "11260",
-            "NAME": "Anchorage, AK",
-            "LSAD": "M1",
-            "ALAND": 68154975065,
-            "AWATER": 2345684746
-          }
-        },
-        {
-          "arcs": [[2564]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "13740",
-            "AFFGEOID": "310M200US13740",
-            "GEOID": "13740",
-            "NAME": "Billings, MT",
-            "LSAD": "M1",
-            "ALAND": 15165554419,
-            "AWATER": 78148377
-          }
-        },
-        {
-          "arcs": [
-            [[2565, -2559, -1237, -938, -1700, -1648, 2566]],
-            [[-2270, 2567]]
-          ],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "488",
-            "CBSAFP": "41860",
-            "AFFGEOID": "310M200US41860",
-            "GEOID": "41860",
-            "NAME": "San Francisco-Oakland-Hayward, CA",
-            "LSAD": "M1",
-            "ALAND": 6417203879,
-            "AWATER": 2456442138
-          }
-        },
-        {
-          "arcs": [[-1646, -1699, -2257, 2568, -2350, 2569]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "41500",
-            "AFFGEOID": "310M200US41500",
-            "GEOID": "41500",
-            "NAME": "Salinas, CA",
-            "LSAD": "M1",
-            "ALAND": 8496731189,
-            "AWATER": 1270747397
-          }
-        },
-        {
-          "arcs": [[-1024, -128, -1201]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "430",
-            "CBSAFP": "35260",
-            "AFFGEOID": "310M200US35260",
-            "GEOID": "35260",
-            "NAME": "New Castle, PA",
-            "LSAD": "M2",
-            "ALAND": 927644464,
-            "AWATER": 11783868
-          }
-        },
-        {
-          "arcs": [[2570, -2462, 2571, 2572, -1381, -346, 2573]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "522",
-            "CBSAFP": "44100",
-            "AFFGEOID": "310M200US44100",
-            "GEOID": "44100",
-            "NAME": "Springfield, IL",
-            "LSAD": "M1",
-            "ALAND": 3063280701,
-            "AWATER": 25218803
-          }
-        },
-        {
-          "arcs": [[-1066, 2574, 2575, 2576]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "548",
-            "CBSAFP": "15700",
-            "AFFGEOID": "310M200US15700",
-            "GEOID": "15700",
-            "NAME": "Cambridge, MD",
-            "LSAD": "M2",
-            "ALAND": 1400542045,
-            "AWATER": 1145386121
-          }
-        },
-        {
-          "arcs": [[2577, -2124, 2578]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "32180",
-            "AFFGEOID": "310M200US32180",
-            "GEOID": "32180",
-            "NAME": "Marshall, MO",
-            "LSAD": "M2",
-            "ALAND": 1956716995,
-            "AWATER": 29587339
-          }
-        },
-        {
-          "arcs": [[2579, 2580, -1018, -1768, 2581, 2582]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "267",
-            "CBSAFP": "24580",
-            "AFFGEOID": "310M200US24580",
-            "GEOID": "24580",
-            "NAME": "Green Bay, WI",
-            "LSAD": "M1",
-            "ALAND": 4843697458,
-            "AWATER": 2534691724
-          }
-        },
-        {
-          "arcs": [[-1287, -1002, 2583, -1939, 2584]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "284",
-            "CBSAFP": "31680",
-            "AFFGEOID": "310M200US31680",
-            "GEOID": "31680",
-            "NAME": "Malvern, AR",
-            "LSAD": "M2",
-            "ALAND": 1593379456,
-            "AWATER": 18035696
-          }
-        },
-        {
-          "arcs": [[-2203, -2560, -2566, 2585, -2268]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "488",
-            "CBSAFP": "46700",
-            "AFFGEOID": "310M200US46700",
-            "GEOID": "46700",
-            "NAME": "Vallejo-Fairfield, CA",
-            "LSAD": "M1",
-            "ALAND": 2128379537,
-            "AWATER": 218647641
-          }
-        },
-        {
-          "arcs": [[-1411, 2586]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "15580",
-            "AFFGEOID": "310M200US15580",
-            "GEOID": "15580",
-            "NAME": "Butte-Silver Bow, MT",
-            "LSAD": "M2",
-            "ALAND": 1859598425,
-            "AWATER": 1522160
-          }
-        },
-        {
-          "arcs": [[-2517, 2587, 2588, 2589, 2590, 2591, -1280, 2592]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "348",
-            "CBSAFP": "40140",
-            "AFFGEOID": "310M200US40140",
-            "GEOID": "40140",
-            "NAME": "Riverside-San Bernardino-Ontario, CA",
-            "LSAD": "M1",
-            "ALAND": 70612017093,
-            "AWATER": 374752982
-          }
-        },
-        {
-          "arcs": [[2593, -1344, 2594, -1572]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "512",
-            "CBSAFP": "46820",
-            "AFFGEOID": "310M200US46820",
-            "GEOID": "46820",
-            "NAME": "Vermillion, SD",
-            "LSAD": "M2",
-            "ALAND": 1067562649,
-            "AWATER": 13071014
-          }
-        },
-        {
-          "arcs": [[[-2576, 2595, -785, 2596]], [[2597]]],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "41540",
-            "AFFGEOID": "310M200US41540",
-            "GEOID": "41540",
-            "NAME": "Salisbury, MD-DE",
-            "LSAD": "M1",
-            "ALAND": 5435122260,
-            "AWATER": 2080604052
-          }
-        },
-        {
-          "arcs": [[-2121, 2598, 2599, 2600]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "30860",
-            "AFFGEOID": "310M200US30860",
-            "GEOID": "30860",
-            "NAME": "Logan, UT-ID",
-            "LSAD": "M1",
-            "ALAND": 4735323632,
-            "AWATER": 33319030
-          }
-        },
-        {
-          "arcs": [[2601, 2602, -2589, 2603, 2604]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "332",
-            "CBSAFP": "29820",
-            "AFFGEOID": "310M200US29820",
-            "GEOID": "29820",
-            "NAME": "Las Vegas-Henderson-Paradise, NV",
-            "LSAD": "M1",
-            "ALAND": 20438834319,
-            "AWATER": 438841388
-          }
-        },
-        {
-          "arcs": [[-2250, -771, 2605, -1657, -922, -1544, -940, 2606, -2030]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "104",
-            "CBSAFP": "10580",
-            "AFFGEOID": "310M200US10580",
-            "GEOID": "10580",
-            "NAME": "Albany-Schenectady-Troy, NY",
-            "LSAD": "M1",
-            "ALAND": 7282106737,
-            "AWATER": 172589034
-          }
-        },
-        {
-          "arcs": [[-1565, -799, 2607, -893, -2326, -1639, 2608, -1994, -2190]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "450",
-            "CBSAFP": "39580",
-            "AFFGEOID": "310M200US39580",
-            "GEOID": "39580",
-            "NAME": "Raleigh, NC",
-            "LSAD": "M1",
-            "ALAND": 5485858939,
-            "AWATER": 75685838
-          }
-        },
-        {
-          "arcs": [[2609, -2292, 2610, 2611, -404, 2612]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "147",
-            "CBSAFP": "14260",
-            "AFFGEOID": "310M200US14260",
-            "GEOID": "14260",
-            "NAME": "Boise City, ID",
-            "LSAD": "M1",
-            "ALAND": 30472933785,
-            "AWATER": 175397532
-          }
-        },
-        {
-          "arcs": [[-2395, -1894, -945, -960, -1736, -879, -1542]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "422",
-            "CBSAFP": "36740",
-            "AFFGEOID": "310M200US36740",
-            "GEOID": "36740",
-            "NAME": "Orlando-Kissimmee-Sanford, FL",
-            "LSAD": "M1",
-            "ALAND": 9012049786,
-            "AWATER": 1377779539
-          }
-        },
-        {
-          "arcs": [[2613, -2042, 2614]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45020",
-            "AFFGEOID": "310M200US45020",
-            "GEOID": "45020",
-            "NAME": "Sweetwater, TX",
-            "LSAD": "M2",
-            "ALAND": 2362061740,
-            "AWATER": 5052158
-          }
-        },
-        {
-          "arcs": [[-2537, -1908, -1980, -2170, 2615, -1889, -508]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "25880",
-            "AFFGEOID": "310M200US25880",
-            "GEOID": "25880",
-            "NAME": "Hillsdale, MI",
-            "LSAD": "M2",
-            "ALAND": 1549199572,
-            "AWATER": 22938608
-          }
-        },
-        {
-          "arcs": [[-764, 2616, 2617, -437, -1882, 2618]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "554",
-            "CBSAFP": "48140",
-            "AFFGEOID": "310M200US48140",
-            "GEOID": "48140",
-            "NAME": "Wausau, WI",
-            "LSAD": "M1",
-            "ALAND": 4001539245,
-            "AWATER": 81145909
-          }
-        },
-        {
-          "arcs": [[2619, -2185, -477]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "108",
-            "CBSAFP": "14420",
-            "AFFGEOID": "310M200US14420",
-            "GEOID": "14420",
-            "NAME": "Borger, TX",
-            "LSAD": "M2",
-            "ALAND": 2298404017,
-            "AWATER": 19511582
-          }
-        },
-        {
-          "arcs": [[2620, 2621]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "24980",
-            "AFFGEOID": "310M200US24980",
-            "GEOID": "24980",
-            "NAME": "Grenada, MS",
-            "LSAD": "M2",
-            "ALAND": 1093252414,
-            "AWATER": 70698246
-          }
-        },
-        {
-          "arcs": [[2622, -1345, -2594, -1571, 2623, -2058]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "43620",
-            "AFFGEOID": "310M200US43620",
-            "GEOID": "43620",
-            "NAME": "Sioux Falls, SD",
-            "LSAD": "M1",
-            "ALAND": 6671079051,
-            "AWATER": 27077952
-          }
-        },
-        {
-          "arcs": [[-889, 2624]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "468",
-            "CBSAFP": "40260",
-            "AFFGEOID": "310M200US40260",
-            "GEOID": "40260",
-            "NAME": "Roanoke Rapids, NC",
-            "LSAD": "M2",
-            "ALAND": 3265132246,
-            "AWATER": 54672521
-          }
-        },
-        {
-          "arcs": [[2625, -2541, 2626, -1415, -836]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "206",
-            "CBSAFP": "43300",
-            "AFFGEOID": "310M200US43300",
-            "GEOID": "43300",
-            "NAME": "Sherman-Denison, TX",
-            "LSAD": "M1",
-            "ALAND": 2415989108,
-            "AWATER": 120124595
-          }
-        },
-        {
-          "arcs": [[-894, 2627, -537, 2628]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "420",
-            "CBSAFP": "36540",
-            "AFFGEOID": "310M200US36540",
-            "GEOID": "36540",
-            "NAME": "Omaha-Council Bluffs, NE-IA",
-            "LSAD": "M1",
-            "ALAND": 11266396052,
-            "AWATER": 148188348
-          }
-        },
-        {
-          "arcs": [[-611, 2629, -2360, 2630, -2362, -1253, -1863]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "370",
-            "CBSAFP": "33100",
-            "AFFGEOID": "310M200US33100",
-            "GEOID": "33100",
-            "NAME": "Miami-Fort Lauderdale-West Palm Beach, FL",
-            "LSAD": "M1",
-            "ALAND": 13145453524,
-            "AWATER": 2749445492
-          }
-        },
-        {
-          "arcs": [[-2038, -167, 2631, -1965, -2490, -1905, -36]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "220",
-            "CBSAFP": "19820",
-            "AFFGEOID": "310M200US19820",
-            "GEOID": "19820",
-            "NAME": "Detroit-Warren-Dearborn, MI",
-            "LSAD": "M1",
-            "ALAND": 10072892006,
-            "AWATER": 897203024
-          }
-        },
-        {
-          "arcs": [[-2356, 2632, -724]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "490",
-            "CBSAFP": "25020",
-            "AFFGEOID": "310M200US25020",
-            "GEOID": "25020",
-            "NAME": "Guayama, PR",
-            "LSAD": "M1",
-            "ALAND": 328148354,
-            "AWATER": 235862236
-          }
-        },
-        {
-          "arcs": [[-2110, 2633]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "37780",
-            "AFFGEOID": "310M200US37780",
-            "GEOID": "37780",
-            "NAME": "Pecos, TX",
-            "LSAD": "M2",
-            "ALAND": 6825586561,
-            "AWATER": 17396681
-          }
-        },
-        {
-          "arcs": [[-1796, 2634, -2423, 2635, -1458, 2636]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "500",
-            "CBSAFP": "34580",
-            "AFFGEOID": "310M200US34580",
-            "GEOID": "34580",
-            "NAME": "Mount Vernon-Anacortes, WA",
-            "LSAD": "M1",
-            "ALAND": 4483833372,
-            "AWATER": 489315214
-          }
-        },
-        {
-          "arcs": [[-542, 2637, 2638, -2470, 2639]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "192",
-            "CBSAFP": "36700",
-            "AFFGEOID": "310M200US36700",
-            "GEOID": "36700",
-            "NAME": "Orangeburg, SC",
-            "LSAD": "M2",
-            "ALAND": 2864676300,
-            "AWATER": 56530748
-          }
-        },
-        {
-          "arcs": [
-            [
-              -1540, 2640, -1608, 2641, -1513, 2642, 2643, 2644, -2638, -541,
-              -1304
-            ]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "192",
-            "CBSAFP": "17900",
-            "AFFGEOID": "310M200US17900",
-            "GEOID": "17900",
-            "NAME": "Columbia, SC",
-            "LSAD": "M1",
-            "ALAND": 9590686398,
-            "AWATER": 339384218
-          }
-        },
-        {
-          "arcs": [[-2291, 2645, -2286, -2235, 2646, -2611]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "46300",
-            "AFFGEOID": "310M200US46300",
-            "GEOID": "46300",
-            "NAME": "Twin Falls, ID",
-            "LSAD": "M2",
-            "ALAND": 6522650504,
-            "AWATER": 31249801
-          }
-        },
-        {
-          "arcs": [[-1413, 2647, -2406, 2648]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "28060",
-            "AFFGEOID": "310M200US28060",
-            "GEOID": "28060",
-            "NAME": "Kalispell, MT",
-            "LSAD": "M2",
-            "ALAND": 13175882902,
-            "AWATER": 437082640
-          }
-        },
-        {
-          "arcs": [[2649, -2212, 2650, -628, -2531, -1922, -581]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "42540",
-            "AFFGEOID": "310M200US42540",
-            "GEOID": "42540",
-            "NAME": "Scranton--Wilkes-Barre--Hazleton, PA",
-            "LSAD": "M1",
-            "ALAND": 4523197900,
-            "AWATER": 77170603
-          }
-        },
-        {
-          "arcs": [[[2651]], [[-745, 2652, -2079, 2653]]],
-          "type": "MultiPolygon",
-          "properties": {
-            "CSAFP": "148",
-            "CBSAFP": "39300",
-            "AFFGEOID": "310M200US39300",
-            "GEOID": "39300",
-            "NAME": "Providence-Warwick, RI-MA",
-            "LSAD": "M1",
-            "ALAND": 4110362048,
-            "AWATER": 1681136832
-          }
-        },
-        {
-          "arcs": [[-1292, -1790, -1774, 2654, -1574, -1361]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "316",
-            "CBSAFP": "29020",
-            "AFFGEOID": "310M200US29020",
-            "GEOID": "29020",
-            "NAME": "Kokomo, IN",
-            "LSAD": "M1",
-            "ALAND": 758858971,
-            "AWATER": 2394185
-          }
-        },
-        {
-          "arcs": [[-1348, 2655]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "15620",
-            "AFFGEOID": "310M200US15620",
-            "GEOID": "15620",
-            "NAME": "Cadillac, MI",
-            "LSAD": "M2",
-            "ALAND": 2925987056,
-            "AWATER": 50674247
-          }
-        },
-        {
-          "arcs": [[-1497, 2656, -1731, -2475]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "23460",
-            "AFFGEOID": "310M200US23460",
-            "GEOID": "23460",
-            "NAME": "Gadsden, AL",
-            "LSAD": "M1",
-            "ALAND": 1386379576,
-            "AWATER": 34562865
-          }
-        },
-        {
-          "arcs": [[-378, 2657, -1004, -1286, 2658]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "40780",
-            "AFFGEOID": "310M200US40780",
-            "GEOID": "40780",
-            "NAME": "Russellville, AR",
-            "LSAD": "M2",
-            "ALAND": 4513173241,
-            "AWATER": 96051278
-          }
-        },
-        {
-          "arcs": [[-795, 2659, -1009, 2660, -2483, -1919]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "14180",
-            "AFFGEOID": "310M200US14180",
-            "GEOID": "14180",
-            "NAME": "Blytheville, AR",
-            "LSAD": "M2",
-            "ALAND": 2332480064,
-            "AWATER": 49826361
-          }
-        },
-        {
-          "arcs": [
-            [-2309, -1459, -2636, -2426, -1845, -1447, -416, 2661, -2404]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "500",
-            "CBSAFP": "42660",
-            "AFFGEOID": "310M200US42660",
-            "GEOID": "42660",
-            "NAME": "Seattle-Tacoma-Bellevue, WA",
-            "LSAD": "M1",
-            "ALAND": 15209110951,
-            "AWATER": 1132535454
-          }
-        },
-        {
-          "arcs": [[-1619, 2662, -2155, -1231]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "34860",
-            "AFFGEOID": "310M200US34860",
-            "GEOID": "34860",
-            "NAME": "Nacogdoches, TX",
-            "LSAD": "M2",
-            "ALAND": 2451523994,
-            "AWATER": 89758782
-          }
-        },
-        {
-          "arcs": [[2663]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "38820",
-            "AFFGEOID": "310M200US38820",
-            "GEOID": "38820",
-            "NAME": "Port Angeles, WA",
-            "LSAD": "M2",
-            "ALAND": 4503157983,
-            "AWATER": 2413675940
-          }
-        },
-        {
-          "arcs": [[2664]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "21820",
-            "AFFGEOID": "310M200US21820",
-            "GEOID": "21820",
-            "NAME": "Fairbanks, AK",
-            "LSAD": "M1",
-            "ALAND": 19019023800,
-            "AWATER": 275189755
-          }
-        },
-        {
-          "arcs": [[-1991, 2665, -1485, 2666, -1133]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "406",
-            "CBSAFP": "14220",
-            "AFFGEOID": "310M200US14220",
-            "GEOID": "14220",
-            "NAME": "Bogalusa, LA",
-            "LSAD": "M2",
-            "ALAND": 1734071719,
-            "AWATER": 16460917
-          }
-        },
-        {
-          "arcs": [[2667]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "27420",
-            "AFFGEOID": "310M200US27420",
-            "GEOID": "27420",
-            "NAME": "Jamestown, ND",
-            "LSAD": "M2",
-            "ALAND": 5754255232,
-            "AWATER": 197312589
-          }
-        },
-        {
-          "arcs": [[-2425, 2668, -186, 2669, -1449, -1844]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "393",
-            "CBSAFP": "34180",
-            "AFFGEOID": "310M200US34180",
-            "GEOID": "34180",
-            "NAME": "Moses Lake, WA",
-            "LSAD": "M2",
-            "ALAND": 6939890129,
-            "AWATER": 289550821
-          }
-        },
-        {
-          "arcs": [[-2461, 2670, -2572]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "522",
-            "CBSAFP": "45380",
-            "AFFGEOID": "310M200US45380",
-            "GEOID": "45380",
-            "NAME": "Taylorville, IL",
-            "LSAD": "M2",
-            "ALAND": 1837278859,
-            "AWATER": 16221514
-          }
-        },
-        {
-          "arcs": [[-555, -395, 2671]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "470",
-            "CBSAFP": "44900",
-            "AFFGEOID": "310M200US44900",
-            "GEOID": "44900",
-            "NAME": "Summerville, GA",
-            "LSAD": "M2",
-            "ALAND": 811512405,
-            "AWATER": 570806
-          }
-        },
-        {
-          "arcs": [[-1247, 2672]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "43500",
-            "AFFGEOID": "310M200US43500",
-            "GEOID": "43500",
-            "NAME": "Silver City, NM",
-            "LSAD": "M2",
-            "ALAND": 10260552064,
-            "AWATER": 15353565
-          }
-        },
-        {
-          "arcs": [[-2045, -258, 2673, -753, 2674, -2538]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "26500",
-            "AFFGEOID": "310M200US26500",
-            "GEOID": "26500",
-            "NAME": "Huntingdon, PA",
-            "LSAD": "M2",
-            "ALAND": 2265337402,
-            "AWATER": 37851955
-          }
-        },
-        {
-          "arcs": [[2675, -1726, -606]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "404",
-            "CBSAFP": "33980",
-            "AFFGEOID": "310M200US33980",
-            "GEOID": "33980",
-            "NAME": "Morehead City, NC",
-            "LSAD": "M2",
-            "ALAND": 1311157125,
-            "AWATER": 2160964137
-          }
-        },
-        {
-          "arcs": [[-241, 2676, 2677, -2229, 2678, -1034, 2679]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45460",
-            "AFFGEOID": "310M200US45460",
-            "GEOID": "45460",
-            "NAME": "Terre Haute, IN",
-            "LSAD": "M1",
-            "ALAND": 3794391201,
-            "AWATER": 51269526
-          }
-        },
-        {
-          "arcs": [[-2443, 2680, 2681, 2682, -2605, 2683]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "332",
-            "CBSAFP": "37220",
-            "AFFGEOID": "310M200US37220",
-            "GEOID": "37220",
-            "NAME": "Pahrump, NV",
-            "LSAD": "M2",
-            "ALAND": 47091002405,
-            "AWATER": 43207981
-          }
-        },
-        {
-          "arcs": [[2684, -1077, -276]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "45700",
-            "AFFGEOID": "310M200US45700",
-            "GEOID": "45700",
-            "NAME": "Tifton, GA",
-            "LSAD": "M2",
-            "ALAND": 675661214,
-            "AWATER": 20499404
-          }
-        },
-        {
-          "arcs": [[-1455, 2685, -2446]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "38580",
-            "AFFGEOID": "310M200US38580",
-            "GEOID": "38580",
-            "NAME": "Point Pleasant, WV-OH",
-            "LSAD": "M2",
-            "ALAND": 2323941473,
-            "AWATER": 48259518
-          }
-        },
-        {
-          "arcs": [[-1049, 2686]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "43260",
-            "AFFGEOID": "310M200US43260",
-            "GEOID": "43260",
-            "NAME": "Sheridan, WY",
-            "LSAD": "M2",
-            "ALAND": 6535552388,
-            "AWATER": 7986323
-          }
-        },
-        {
-          "arcs": [[2687]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "23780",
-            "AFFGEOID": "310M200US23780",
-            "GEOID": "23780",
-            "NAME": "Garden City, KS",
-            "LSAD": "M2",
-            "ALAND": 5626814834,
-            "AWATER": 2927999
-          }
-        },
-        {
-          "arcs": [[2688, -870, -2161, 2689, -2096]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "314",
-            "CBSAFP": "42940",
-            "AFFGEOID": "310M200US42940",
-            "GEOID": "42940",
-            "NAME": "Sevierville, TN",
-            "LSAD": "M2",
-            "ALAND": 1534597705,
-            "AWATER": 13491682
-          }
-        },
-        {
-          "arcs": [[-2521, 2690, 2691, -1873, -2218]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "106",
-            "CBSAFP": "42140",
-            "AFFGEOID": "310M200US42140",
-            "GEOID": "42140",
-            "NAME": "Santa Fe, NM",
-            "LSAD": "M1",
-            "ALAND": 4945412532,
-            "AWATER": 3645423
-          }
-        },
-        {
-          "arcs": [[-2592, 2692, -2449, 2693, -1281]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "20940",
-            "AFFGEOID": "310M200US20940",
-            "GEOID": "20940",
-            "NAME": "El Centro, CA",
-            "LSAD": "M1",
-            "ALAND": 10817378445,
-            "AWATER": 790204917
-          }
-        },
-        {
-          "arcs": [[-1679, -1505, 2694, -2305, 2695, -560, 2696]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "318",
-            "CBSAFP": "29180",
-            "AFFGEOID": "310M200US29180",
-            "GEOID": "29180",
-            "NAME": "Lafayette, LA",
-            "LSAD": "M1",
-            "ALAND": 8828910403,
-            "AWATER": 2348844612
-          }
-        },
-        {
-          "arcs": [[-1503, -1134, -2667, -1484, -2497, 2697, 2698, 2699]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "406",
-            "CBSAFP": "35380",
-            "AFFGEOID": "310M200US35380",
-            "GEOID": "35380",
-            "NAME": "New Orleans-Metairie, LA",
-            "LSAD": "M1",
-            "ALAND": 8293551780,
-            "AWATER": 12101115061
-          }
-        },
-        {
-          "arcs": [[2700, -2082, -2312, 2701, -2580, 2702]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "31940",
-            "AFFGEOID": "310M200US31940",
-            "GEOID": "31940",
-            "NAME": "Marinette, WI-MI",
-            "LSAD": "M2",
-            "ALAND": 6328367306,
-            "AWATER": 1151919359
-          }
-        },
-        {
-          "arcs": [[2703, 2704, 2705, -1579, -1546]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "521",
-            "CBSAFP": "44140",
-            "AFFGEOID": "310M200US44140",
-            "GEOID": "44140",
-            "NAME": "Springfield, MA",
-            "LSAD": "M1",
-            "ALAND": 2964007223,
-            "AWATER": 90781029
-          }
-        },
-        {
-          "arcs": [[2706, -2359, 2707]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "490",
-            "CBSAFP": "11640",
-            "AFFGEOID": "310M200US11640",
-            "GEOID": "11640",
-            "NAME": "Arecibo, PR",
-            "LSAD": "M1",
-            "ALAND": 613215747,
-            "AWATER": 231819197
-          }
-        },
-        {
-          "arcs": [[2708, -775, 2709, 2710]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "15540",
-            "AFFGEOID": "310M200US15540",
-            "GEOID": "15540",
-            "NAME": "Burlington-South Burlington, VT",
-            "LSAD": "M1",
-            "ALAND": 3243268574,
-            "AWATER": 657471312
-          }
-        },
-        {
-          "arcs": [[-2708, -2358, -316, -1534, -1750, -1532, 2711, -674, 2712]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "10380",
-            "AFFGEOID": "310M200US10380",
-            "GEOID": "10380",
-            "NAME": "Aguadilla-Isabela, PR",
-            "LSAD": "M1",
-            "ALAND": 1222489495,
-            "AWATER": 358947554
-          }
-        },
-        {
-          "arcs": [[-2165, 2713]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "13620",
-            "AFFGEOID": "310M200US13620",
-            "GEOID": "13620",
-            "NAME": "Berlin, NH-VT",
-            "LSAD": "M2",
-            "ALAND": 6366924190,
-            "AWATER": 121059528
-          }
-        },
-        {
-          "arcs": [[-2613, -403, 2714]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "147",
-            "CBSAFP": "36620",
-            "AFFGEOID": "310M200US36620",
-            "GEOID": "36620",
-            "NAME": "Ontario, OR-ID",
-            "LSAD": "M2",
-            "ALAND": 26662232202,
-            "AWATER": 118070503
-          }
-        },
-        {
-          "arcs": [[-2493, -2535, -1324, 2715, 2716]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "39140",
-            "AFFGEOID": "310M200US39140",
-            "GEOID": "39140",
-            "NAME": "Prescott, AZ",
-            "LSAD": "M1",
-            "ALAND": 21039920080,
-            "AWATER": 11501575
-          }
-        },
-        {
-          "arcs": [[2717, -1061, -2381]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "10780",
-            "AFFGEOID": "310M200US10780",
-            "GEOID": "10780",
-            "NAME": "Alexandria, LA",
-            "LSAD": "M1",
-            "ALAND": 5079062315,
-            "AWATER": 169057160
-          }
-        },
-        {
-          "arcs": [[-2256, -2390, -2515, -2351, -2569]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "546",
-            "CBSAFP": "25260",
-            "AFFGEOID": "310M200US25260",
-            "GEOID": "25260",
-            "NAME": "Hanford-Corcoran, CA",
-            "LSAD": "M1",
-            "ALAND": 3598582456,
-            "AWATER": 5468555
-          }
-        },
-        {
-          "arcs": [
-            [2718, -2456, -2332, 2719, -2579, -2123, -12, 2720, -330, -600]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "312",
-            "CBSAFP": "28140",
-            "AFFGEOID": "310M200US28140",
-            "GEOID": "28140",
-            "NAME": "Kansas City, MO-KS",
-            "LSAD": "M1",
-            "ALAND": 18792678289,
-            "AWATER": 304085198
-          }
-        },
-        {
-          "arcs": [[-2233, 2721, -2600, 2722, -1085, 2723, 2724]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "482",
-            "CBSAFP": "36260",
-            "AFFGEOID": "310M200US36260",
-            "GEOID": "36260",
-            "NAME": "Ogden-Clearfield, UT",
-            "LSAD": "M1",
-            "ALAND": 18725460886,
-            "AWATER": 3639530112
-          }
-        },
-        {
-          "arcs": [[-2503, 2725]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "",
-            "CBSAFP": "33940",
-            "AFFGEOID": "310M200US33940",
-            "GEOID": "33940",
-            "NAME": "Montrose, CO",
-            "LSAD": "M2",
-            "ALAND": 5804077510,
-            "AWATER": 4923261
-          }
-        },
-        {
-          "arcs": [[-758, -975, -1551, 2726, -2019, 2727]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "548",
-            "CBSAFP": "25180",
-            "AFFGEOID": "310M200US25180",
-            "GEOID": "25180",
-            "NAME": "Hagerstown-Martinsburg, MD-WV",
-            "LSAD": "M1",
-            "ALAND": 2017453322,
-            "AWATER": 25788393
-          }
-        },
-        {
-          "arcs": [[2728, -1368]],
-          "type": "Polygon",
-          "properties": {
-            "CSAFP": "336",
-            "CBSAFP": "34460",
-            "AFFGEOID": "310M200US34460",
-            "GEOID": "34460",
-            "NAME": "Mount Sterling, KY",
-   
