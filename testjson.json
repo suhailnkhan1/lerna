@@ -18,7 +18,67 @@
                   "iso_3166_2": "VA"
                 },
                 "arcs": [[2994, 2995]]
-              }
+              },
+               {
+          "type": "Polygon",
+          "id": 594,
+          "properties": {
+            "fips": 51820,
+            "state_fips": 51,
+            "county_fips": 820,
+            "name": "Waynesboro",
+            "lsad": "city",
+            "census_area": 15.039,
+            "state": "Virginia",
+            "iso_3166_2": "VA"
+          },
+          "arcs": [[2996]]
+        },
+        {
+          "type": "Polygon",
+          "id": 595,
+          "properties": {
+            "fips": 53013,
+            "state_fips": 53,
+            "county_fips": "013",
+            "name": "Columbia",
+            "lsad": "County",
+            "census_area": 868.629,
+            "state": "Washington",
+            "iso_3166_2": "WA"
+          },
+          "arcs": [[2997, 2998, 2999, 3000, 3001, 3002]]
+        },
+        {
+          "type": "Polygon",
+          "id": 596,
+          "properties": {
+            "fips": 53021,
+            "state_fips": 53,
+            "county_fips": "021",
+            "name": "Franklin",
+            "lsad": "County",
+            "census_area": 1242.171,
+            "state": "Washington",
+            "iso_3166_2": "WA"
+          },
+          "arcs": [[3003, -2998, 3004, 3005, 3006, 3007]]
+        },
+        {
+          "type": "MultiPolygon",
+          "id": 597,
+          "properties": {
+            "fips": 55029,
+            "state_fips": 55,
+            "county_fips": "029",
+            "name": "Door",
+            "lsad": "County",
+            "census_area": 481.978,
+            "state": "Wisconsin",
+            "iso_3166_2": "WI"
+          },
+          "arcs": [[[3008]], [[3009, 3010]]]
+        },
         ]
       }
     },
