@@ -24457,7 +24457,7 @@
     ]
   ],
   "objects": {
-    "cb_2015_us_cbsa_20m": {
+    "data": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -24481,7 +24481,7 @@
             "properties": {
               "NAME": "Akron, OH",
                            "fill" : "green"
-
+    
             }
           },
           {
