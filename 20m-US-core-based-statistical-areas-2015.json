@@ -24479,11 +24479,9 @@
             "arcs": [[2, 3, 4, 5]],
             "type": "Polygon",
             "properties": {
-              
               "NAME": "Akron, OH",
-              "LSAD": "M1",
-              "ALAND": 2331619578,
-              "AWATER": 62018442
+                           "fill" : "blue"
+
             }
           },
           {
