@@ -24480,7 +24480,7 @@
             "type": "Polygon",
             "properties": {
               "NAME": "Akron, OH",
-                           "fill" : "blue"
+                           "fill" : "green"
 
             }
           },
