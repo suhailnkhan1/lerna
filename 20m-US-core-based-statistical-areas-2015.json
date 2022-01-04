@@ -24485,14 +24485,10 @@
             "arcs": [[6, 7, 8]],
             "type": "Polygon",
             "properties": {
-              "CSAFP": "258",
-              "CBSAFP": "26540",
-              "AFFGEOID": "310M200US26540",
-              "GEOID": "26540",
+              
               "NAME": "Huntington, IN",
-              "LSAD": "M2",
-              "ALAND": 991056505,
-              "AWATER": 13133894
+              "fill": "yellow"
+             
             }
           }
       ]
