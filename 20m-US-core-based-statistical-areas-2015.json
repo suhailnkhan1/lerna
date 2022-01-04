@@ -24479,10 +24479,7 @@
             "arcs": [[2, 3, 4, 5]],
             "type": "Polygon",
             "properties": {
-              "CSAFP": "184",
-              "CBSAFP": "10420",
-              "AFFGEOID": "310M200US10420",
-              "GEOID": "10420",
+              
               "NAME": "Akron, OH",
               "LSAD": "M1",
               "ALAND": 2331619578,
