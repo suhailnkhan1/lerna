@@ -24472,7 +24472,7 @@
             "properties": {
               
               "NAME": "Baraboo, WI",
-              
+              "fill": "red",
               "ALAND": 2152007753,
               "AWATER": 45296336  
 
@@ -24484,7 +24484,7 @@
             "properties": {
 
               "NAME": "Akron, OH",
-              
+              "fill": "green",
               "ALAND": 2331619578,
               "AWATER": 62018442
             }
@@ -24495,7 +24495,7 @@
             "properties": {
               
               "NAME": "Huntington, IN",
-              
+              "fill":"blue",
               "ALAND": 991056505,
               "AWATER": 13133894
             }
