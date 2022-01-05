@@ -24466,41 +24466,34 @@
     "data": {
       "type": "GeometryCollection",
         "geometries": [
-            {
-              "arcs": [
-                [
-                  -936,
-                  2384,
-                  2385,
-                  -2258,
-                  -1697
-                ]
-              ],
-              "type": "Polygon",
-              "properties": {
-                "NAME": "Merced, CA",
-                "fill": "green"
-              }
-            },
-            {
-              "arcs": [
-                [
-                  -2517,
-                  2587,
-                  2588,
-                  2589,
-                  2590,
-                  2591,
-                  -1280,
-                  2592
-                ]
-              ],
-              "type": "Polygon",
-              "properties": {
-                "NAME": "Riverside-San Bernardino-Ontario, CA",
-                "fill": "green"
-              }
-            },
+           {
+          "arcs": [[0, 1]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "357",
+            "CBSAFP": "12660",
+            "AFFGEOID": "310M200US12660",
+            "GEOID": "12660",
+            "NAME": "Baraboo, WI",
+            "LSAD": "M2",
+            "ALAND": 2152007753,
+            "AWATER": 45296336
+          }
+        },
+        {
+          "arcs": [[2, 3, 4, 5]],
+          "type": "Polygon",
+          "properties": {
+            "CSAFP": "184",
+            "CBSAFP": "10420",
+            "AFFGEOID": "310M200US10420",
+            "GEOID": "10420",
+            "NAME": "Akron, OH",
+            "LSAD": "M1",
+            "ALAND": 2331619578,
+            "AWATER": 62018442
+          }
+        },
           ]
     }
   }
