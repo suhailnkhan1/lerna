@@ -24466,13 +24466,16 @@
     "data": {
       "type": "GeometryCollection",
         "geometries": [
-             {
+           {
             "arcs": [[0, 1]],
             "type": "Polygon",
             "properties": {
               
+              "GEOID": "12660",
               "NAME": "Baraboo, WI",
-             
+              "LSAD": "M2",
+              "ALAND": 2152007753,
+              "AWATER": 45296336  ,
               "fill" : "red"
             }
           },
@@ -24481,17 +24484,21 @@
             "type": "Polygon",
             "properties": {
               "NAME": "Akron, OH",
-         
+              "LSAD": "M1",
+              "ALAND": 2331619578,
+              "AWATER": 62018442
             }
           },
           {
             "arcs": [[6, 7, 8]],
             "type": "Polygon",
             "properties": {
-
+         
+              "GEOID": "26540",
               "NAME": "Huntington, IN",
-             
-             
+              "LSAD": "M2",
+              "ALAND": 991056505,
+              "AWATER": 13133894
             }
           }
           ]
