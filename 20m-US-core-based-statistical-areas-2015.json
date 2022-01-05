@@ -24470,14 +24470,9 @@
             "arcs": [[0, 1]],
             "type": "Polygon",
             "properties": {
-              "CSAFP": "357",
-              "CBSAFP": "12660",
-              "AFFGEOID": "310M200US12660",
-              "GEOID": "12660",
+              
               "NAME": "Baraboo, WI",
-              "LSAD": "M2",
-              "ALAND": 2152007753,
-              "AWATER": 45296336  ,
+             ,
               "fill" : "red"
             }
           },
@@ -24485,25 +24480,18 @@
             "arcs": [[2, 3, 4, 5]],
             "type": "Polygon",
             "properties": {
-
               "NAME": "Akron, OH",
-              "LSAD": "M1",
-              "ALAND": 2331619578,
-              "AWATER": 62018442
+         
             }
           },
           {
             "arcs": [[6, 7, 8]],
             "type": "Polygon",
             "properties": {
-              "CSAFP": "258",
-              "CBSAFP": "26540",
-              "AFFGEOID": "310M200US26540",
-              "GEOID": "26540",
+
               "NAME": "Huntington, IN",
-              "LSAD": "M2",
-              "ALAND": 991056505,
-              "AWATER": 13133894
+             
+             
             }
           }
           ]
