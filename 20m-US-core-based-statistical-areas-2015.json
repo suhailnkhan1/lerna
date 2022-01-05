@@ -21,6 +21,59 @@
     "states": {
       "type": "GeometryCollection",
       "geometries": [
+         {
+              "arcs": [
+                [
+                  -936,
+                  2384,
+                  2385,
+                  -2258,
+                  -1697
+                ]
+              ],
+              "type": "Polygon",
+              "properties": {
+                "NAME": "Merced, CA",
+                "msa_id": "481",
+                "fill": "#800000"
+              }
+            },
+            {
+              "arcs": [
+                [
+                  -2517,
+                  2587,
+                  2588,
+                  2589,
+                  2590,
+                  2591,
+                  -1280,
+                  2592
+                ]
+              ],
+              "type": "Polygon",
+              "properties": {
+                "NAME": "Riverside-San Bernardino-Ontario, CA",
+                "msa_id": "482",
+                "fill": "#11887b"
+              }
+            },
+            {
+              "arcs": [
+                [
+                  165,
+                  166,
+                  167,
+                  -116
+                ]
+              ],
+              "type": "Polygon",
+              "properties": {
+                "NAME": "Flint, MI",
+                "msa_id": "485",
+                "fill": "#033500"
+              }
+            },
         {
           "type": "MultiPolygon",
           "arcs": [
