@@ -18,6 +18,7 @@
     ]
   },
   "objects": {
+    
     "states": {
       "type": "GeometryCollection",
       "geometries": [
@@ -2231,6 +2232,106 @@
         }
       ]
     },
+    "msa": {
+          "type": "GeometryCollection",
+          "geometries": [
+            {
+              "type": "Polygon",
+              "arcs": [
+                [
+                  -936,
+                  2384,
+                  2385,
+                  -2258,
+                  -1697
+                ]
+              ],
+              "properties": {
+                "NAME": "Merced, CA",
+                "fill": "#442200",
+                "msa_id": "944"
+              }
+            },
+            {
+              "type": "Polygon",
+              "arcs": [
+                [
+                  -2517,
+                  2587,
+                  2588,
+                  2589,
+                  2590,
+                  2591,
+                  -1280,
+                  2592
+                ]
+              ],
+              "properties": {
+                "NAME": "Riverside-San Bernardino-Ontario, CA",
+                "fill": "#004400",
+                "msa_id": "945"
+              }
+            },
+            {
+              "type": "Polygon",
+              "arcs": [
+                [
+                  165,
+                  166,
+                  167,
+                  -116
+                ]
+              ],
+              "properties": {
+                "NAME": "Flint, MI",
+                "fill": "#840000",
+                "msa_id": "948"
+              }
+            },
+            {
+              "type": "Polygon",
+              "arcs": [
+                [
+                  1413,
+                  -837,
+                  1414,
+                  1415,
+                  1416,
+                  1417,
+                  -623,
+                  1418,
+                  1419,
+                  1420,
+                  1421
+                ]
+              ],
+              "properties": {
+                "NAME": "Dallas-Fort Worth-Arlington, TX",
+                "fill": "#af2f0d",
+                "msa_id": "951"
+              }
+            },
+            {
+              "type": "Polygon",
+              "arcs": [
+                [
+                  -894,
+                  2627,
+                  -537,
+                  2628
+                ]
+              ],
+              "properties": {
+                "NAME": "Omaha-Council Bluffs, NE-IA",
+                "fill": "#262b2f",
+                "msa_id": "952"
+              }
+            }
+          ]
+        }
+      },
+
+    
     "nation": {
       "type": "GeometryCollection",
       "geometries": [
@@ -49943,7 +50044,7 @@
       [
         10,
         31
-      ],
+      ],]
       [
         -11,
         12
